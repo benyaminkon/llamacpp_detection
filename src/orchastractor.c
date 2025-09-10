@@ -8,29 +8,48 @@
 #include <signal.h>
 #include <string.h>
 
-#define CPU_VICTIM   7
-#define MAX_TOKENS   32064
+#define CPU_VICTIM 7
+// #define MAX_TOKENS 32064 <<------------------- I change this
+#define MAX_TOKENS 64
 
-static void bind_cpu(int cpu_to_bind) {
+/**
+ * Binds the current process to a specific CPU core
+ * @param cpu_to_bind: CPU core number to bind to
+ */
+static void bind_cpu(int cpu_to_bind)
+{
     cpu_set_t set;
     CPU_ZERO(&set);
     CPU_SET(cpu_to_bind, &set);
-    if (sched_setaffinity(0, sizeof(set), &set) < 0) {
+    if (sched_setaffinity(0, sizeof(set), &set) < 0)
+    {
         perror("sched_setaffinity");
         exit(1);
     }
 }
-
-int victim_prepare(void) {
+/**
+ * Creates and launches the victim process (LLM) on CPU 7
+ * Returns the PID of the victim process
+ */
+int victim_prepare(void)
+{
     pid_t victim_pid = fork();
-    if (victim_pid < 0) {
+    if (victim_pid < 0)
+    {
         perror("fork");
         exit(1);
     }
-    if (victim_pid == 0) {
+    if (victim_pid == 0)
+    {
         bind_cpu(CPU_VICTIM);
-        execlp("python3", "python3",
-               "src/victim.py",
+        //        execlp("python3", "python3",
+        //               "src/victim.py",
+        //               "/home/user/Projects/llamacpp_detection/models/"
+        //               "phi3-mini/Phi-3-mini-4k-instruct-q4.gguf",
+        //               (char *)NULL);
+        execlp("/home/user/Projects/llamacpp_detection/.venv/bin/python3",
+               "/home/user/Projects/llamacpp_detection/.venv/bin/python3",
+               "src/victim_64_test.py",
                "/home/user/Projects/llamacpp_detection/models/"
                "phi3-mini/Phi-3-mini-4k-instruct-q4.gguf",
                (char *)NULL);
@@ -42,12 +61,14 @@ int victim_prepare(void) {
 
 // --- SIGUSR2 handler for "decode finished" ACK from victim ---
 volatile sig_atomic_t ack_received = 0;
-static void on_sigusr2(int signo) {
+static void on_sigusr2(int signo)
+{
     (void)signo;
     ack_received = 1;
 }
 
-int main(void) {
+int main(void)
+{
     // 1) Bind this orchestrator to CPU 0
     bind_cpu(0);
 
@@ -57,15 +78,17 @@ int main(void) {
     sa.sa_handler = on_sigusr2;
     sigemptyset(&sa.sa_mask);
     sa.sa_flags = 0;
-    if (sigaction(SIGUSR2, &sa, NULL) < 0) {
+    if (sigaction(SIGUSR2, &sa, NULL) < 0)
+    {
         perror("sigaction(SIGUSR2)");
         exit(1);
     }
 
     // 3) Write CSV header (overwrite existing)
-    const char *output_file = "results/all_ds.csv";
+    const char *output_file = "results/bens_64_tokens_result.csv"; // this is the file to change if I dont want to overwrite roy output
     FILE *out = fopen(output_file, "w");
-    if (!out) {
+    if (!out)
+    {
         perror("Failed to open output file");
         return 1;
     }
@@ -78,23 +101,27 @@ int main(void) {
     // 5) Initial busy-wait for victim startup
     printf("[+] Initializing attack, waiting for 10 seconds...\n");
     fflush(stdout);
-    for (volatile int i = 0; i < 1500000000; i++);
+    for (volatile int i = 0; i < 1500000000; i++) // Busy loop ~10 seconds
+        ;
     printf("[+] Starting attack over %d tokens...\n", MAX_TOKENS);
     fflush(stdout);
 
     // 6) Token loop with two-way handshake
-    for (int token = 0; token < MAX_TOKENS; token++) {
+    for (int token = 0; token < MAX_TOKENS; token++)
+    {
         // reset ACK flag
         ack_received = 0;
 
         // fork attacker
         pid_t attacker = fork();
-        if (attacker < 0) {
+        if (attacker < 0)
+        {
             perror("fork");
             break;
         }
 
-        if (attacker == 0) {
+        if (attacker == 0)
+        {
             // child: run attacker (which itself sends SIGUSR1 to victim)
             char cmd[512];
             snprintf(cmd, sizeof(cmd),
@@ -112,7 +139,8 @@ int main(void) {
 
         // now wait for the victim to ACK (SIGUSR2) that it has
         // completed the decode loop for this token
-        while (!ack_received) {
+        while (!ack_received)
+        {
             pause();
         }
 

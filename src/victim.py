@@ -16,7 +16,7 @@ parent_pid = None
 
 def decode_token_x_times(token_id: int):
     """Call llm.detokenize() eight times with random sleeps."""
-    for _ in range(8):
+    for _ in range(8): 
         time.sleep(random.uniform(0.1, 0.3))
         llm.detokenize([token_id])
 
@@ -44,7 +44,7 @@ def main():
     llm = Llama(
         model_path=model_path,
         vocab_only=True,
-        use_mmap=True
+        use_mmap=True # is this an assumption that we can take for granted?   <<---------------------
     )
     print("Vocabulary loaded. Awaiting SIGUSR1…")
 
