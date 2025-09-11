@@ -1,0 +1,20 @@
+Token 10050 Analysis
+==================================================
+
+Base address (with): 0x7bb1b60aa472
+Base address (without): 0x7a91a187c513
+Total offsets (with): 98
+Total offsets (without): 101
+Decode-only offsets: 97
+
+Cache Sets Accessed:
+  [6, 18, 20, 33]
+
+Decode-Related Functions:
+  0x87872 -> cache_set_33 (token_to_piece)
+  0x87488 -> cache_set_18 (token_to_piece)
+  0x87502 -> cache_set_20 (token_to_piece)
+  0x8750a -> cache_set_20 (token_to_piece)
+  0x87523 -> cache_set_20 (token_to_piece)
+  0x87527 -> cache_set_20 (token_to_piece)
+  0x8519e -> cache_set_6 (llama_vocab)

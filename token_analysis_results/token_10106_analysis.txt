@@ -1,0 +1,24 @@
+Token 10106 Analysis
+==================================================
+
+Base address (with): 0x7b4413b09f2f
+Base address (without): 0x79a43918fe32
+Total offsets (with): 98
+Total offsets (without): 105
+Decode-only offsets: 97
+
+Cache Sets Accessed:
+  [27, 38, 41, 42, 43, 48, 54, 55, 56]
+
+Decode-Related Functions:
+  0xe9c03 -> cache_set_48 (token_to_piece)
+  0xe9e11 -> cache_set_56 (token_to_piece)
+  0xe9a45 -> cache_set_41 (token_to_piece)
+  0xe9a68 -> cache_set_41 (token_to_piece)
+  0xe9a91 -> cache_set_42 (token_to_piece)
+  0xe9ad4 -> cache_set_43 (token_to_piece)
+  0xe76e1 -> cache_set_27 (llama_vocab)
+  0x-2650b -> cache_set_43 (token_to_piece)
+  0xe9db5 -> cache_set_54 (token_to_piece)
+  0xe99b5 -> cache_set_38 (token_to_piece)
+  0xe9dc4 -> cache_set_55 (token_to_piece)

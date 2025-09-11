@@ -1,0 +1,25 @@
+Token 10045 Analysis
+==================================================
+
+Base address (with): 0x7de290b7c495
+Base address (without): 0x7cdf57ea07f5
+Total offsets (with): 106
+Total offsets (without): 109
+Decode-only offsets: 105
+
+Cache Sets Accessed:
+  [3, 5, 16, 17, 20, 33, 34, 35, 61]
+
+Decode-Related Functions:
+  0xfe422 -> cache_set_16 (token_to_piece)
+  0xfe454 -> cache_set_17 (token_to_piece)
+  0xfe85e -> cache_set_33 (token_to_piece)
+  0xfe8ab -> cache_set_34 (token_to_piece)
+  0xfe8ce -> cache_set_35 (token_to_piece)
+  0xfe8f4 -> cache_set_35 (token_to_piece)
+  0xfc0fb -> cache_set_3 (llama_vocab)
+  0xfe501 -> cache_set_20 (token_to_piece)
+  0xfe52b -> cache_set_20 (token_to_piece)
+  0xfe532 -> cache_set_20 (token_to_piece)
+  0xfef4f -> cache_set_61 (token_to_piece)
+  0xfc17b -> cache_set_5 (llama_vocab)

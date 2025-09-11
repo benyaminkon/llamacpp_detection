@@ -1,0 +1,22 @@
+Token 10053 Analysis
+==================================================
+
+Base address (with): 0x717c3da8a7d0
+Base address (without): 0x766d3dfa8290
+Total offsets (with): 108
+Total offsets (without): 107
+Decode-only offsets: 107
+
+Cache Sets Accessed:
+  [7, 13, 20, 22, 48, 55, 57]
+
+Decode-Related Functions:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf0355 -> cache_set_13 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c9 -> cache_set_7 (token_to_piece)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)

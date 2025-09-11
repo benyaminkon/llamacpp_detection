@@ -1,0 +1,22 @@
+Token 10094 Analysis
+==================================================
+
+Base address (with): 0x747374baa767
+Base address (without): 0x764474b8a7d0
+Total offsets (with): 94
+Total offsets (without): 93
+Decode-only offsets: 93
+
+Cache Sets Accessed:
+  [0, 5, 6, 8, 9, 15, 22, 24]
+
+Decode-Related Functions:
+  0x8501c -> cache_set_0 (llama_vocab)
+  0x87627 -> cache_set_24 (token_to_piece)
+  0x87234 -> cache_set_8 (token_to_piece)
+  0x87238 -> cache_set_8 (token_to_piece)
+  0x87259 -> cache_set_9 (token_to_piece)
+  0x87150 -> cache_set_5 (token_to_piece)
+  0x87182 -> cache_set_6 (token_to_piece)
+  0x8758c -> cache_set_22 (token_to_piece)
+  0x873cb -> cache_set_15 (token_to_piece)

@@ -1,0 +1,22 @@
+Token 10068 Analysis
+==================================================
+
+Base address (with): 0x7d2a94533543
+Base address (without): 0x715cb92214b4
+Total offsets (with): 88
+Total offsets (without): 111
+Decode-only offsets: 87
+
+Cache Sets Accessed:
+  [3, 14, 16, 17, 32, 58]
+
+Decode-Related Functions:
+  0xfe820 -> cache_set_32 (token_to_piece)
+  0xfe431 -> cache_set_16 (token_to_piece)
+  0xfe452 -> cache_set_17 (token_to_piece)
+  0xfe456 -> cache_set_17 (token_to_piece)
+  0xfe45c -> cache_set_17 (token_to_piece)
+  0xfeea1 -> cache_set_58 (token_to_piece)
+  0xfc0cd -> cache_set_3 (llama_vocab)
+  0xfe3a6 -> cache_set_14 (token_to_piece)
+  0xfe3b7 -> cache_set_14 (token_to_piece)

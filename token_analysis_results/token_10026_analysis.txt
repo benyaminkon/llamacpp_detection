@@ -1,0 +1,23 @@
+Token 10026 Analysis
+==================================================
+
+Base address (with): 0x7657ef121034
+Base address (without): 0x7d13c34417d0
+Total offsets (with): 101
+Total offsets (without): 102
+Decode-only offsets: 100
+
+Cache Sets Accessed:
+  [21, 23, 34, 37, 38, 39, 43, 50, 53]
+
+Decode-Related Functions:
+  0x1108b0 -> cache_set_34 (token_to_piece)
+  0x1108b5 -> cache_set_34 (token_to_piece)
+  0x110cbf -> cache_set_50 (token_to_piece)
+  0x110afe -> cache_set_43 (token_to_piece)
+  0x110d5a -> cache_set_53 (token_to_piece)
+  0x10e55c -> cache_set_21 (llama_vocab)
+  0x110965 -> cache_set_37 (token_to_piece)
+  0x11098c -> cache_set_38 (token_to_piece)
+  0x1109cf -> cache_set_39 (token_to_piece)
+  0x10e5dc -> cache_set_23 (llama_vocab)

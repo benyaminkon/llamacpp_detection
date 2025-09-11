@@ -1,0 +1,1749 @@
+Token Cache Set Analysis Summary
+==================================================
+
+Analyzed tokens: 10000-10128
+Successful: 129
+Failed: 0
+
+Cache Set Mapping by Token:
+------------------------------
+Token 10000: [14, 16, 22, 27, 30, 31, 46]
+Token 10001: [4, 6, 7, 9, 13, 20, 48, 62]
+Token 10002: [3, 6, 8, 19, 47, 54, 56, 62]
+Token 10003: [5, 37, 39, 45, 51, 53, 60]
+Token 10004: [22, 30, 31, 37, 44]
+Token 10005: [3, 6, 7, 13, 21, 55, 62]
+Token 10006: [0, 1, 47, 48, 50, 51, 52, 53, 57]
+Token 10007: [32, 34, 40, 45, 48, 49, 54, 62]
+Token 10008: [15, 17, 18, 31, 33]
+Token 10009: [5, 12, 46, 48, 54, 59, 60, 62, 63]
+Token 10010: [1, 3, 9, 14, 16, 17, 19, 23, 31]
+Token 10011: [43, 44, 46, 47, 48, 49, 53, 60, 62]
+Token 10012: [21, 30, 40, 41, 43, 44, 45]
+Token 10013: [15, 17, 18, 31]
+Token 10014: [4, 6, 7, 48, 55, 57, 62]
+Token 10015: [2, 3, 36, 38, 44, 49, 52, 53]
+Token 10016: [38, 44, 47, 48, 49, 53, 61]
+Token 10017: [18, 20, 32, 34, 35, 36, 48, 49, 50]
+Token 10018: [3, 4, 6, 9, 20, 21, 22, 48, 55, 57]
+Token 10019: [1, 9, 15, 17, 20]
+Token 10020: [32, 34, 39, 44, 45, 47, 48, 49]
+Token 10021: [21, 28, 30, 40, 41, 43, 44, 59]
+Token 10022: [30, 32, 38, 46, 48]
+Token 10023: [21, 23, 34, 37, 38, 39, 43, 50, 52, 53]
+Token 10024: [22, 24, 30, 37, 38, 40, 51, 53]
+Token 10025: [22, 33, 35, 36, 38]
+Token 10026: [21, 23, 34, 37, 38, 39, 43, 50, 53]
+Token 10027: [5, 11, 19, 26, 33, 35, 61]
+Token 10028: [5, 16, 19, 20, 35, 60]
+Token 10029: [1, 8, 50, 56, 58, 59]
+Token 10030: [7, 8, 20, 22, 57]
+Token 10031: [15, 22, 28, 30, 31, 32, 44, 47]
+Token 10032: [17, 19, 25, 31, 33, 36, 49]
+Token 10033: [28, 30, 35, 40, 41, 43, 44, 45, 57, 58, 60]
+Token 10034: [31, 42, 43, 45]
+Token 10035: [19, 25, 27, 39, 41, 42, 44, 48, 55]
+Token 10036: [22, 30, 35, 38, 39, 51]
+Token 10037: [16, 26, 27, 29, 30, 31, 32, 46]
+Token 10038: [1, 9, 14, 15, 17, 18, 19, 20, 24, 31, 32, 33]
+Token 10039: [43, 46, 47, 49]
+Token 10040: [4, 6, 7, 13, 20, 21, 22, 48, 57, 62]
+Token 10041: [0, 32, 34, 45, 47, 48, 49, 61, 63]
+Token 10042: [1, 9, 15, 17, 18, 31, 32]
+Token 10043: [4, 6, 7, 48, 62]
+Token 10044: [4, 6, 7, 8, 9, 13, 21, 22, 48, 55, 57]
+Token 10045: [3, 5, 16, 17, 20, 33, 34, 35, 61]
+Token 10046: [15, 22, 24, 38, 39, 40, 44]
+Token 10047: [0, 25, 32, 34, 39, 48, 49]
+Token 10048: [1, 7, 13, 15, 18, 29, 63]
+Token 10049: [3, 16, 17, 20, 22, 61]
+Token 10050: [6, 18, 20, 33]
+Token 10051: [15, 22, 35, 36, 38, 39, 44, 51, 53]
+Token 10052: [28, 35, 36, 40, 41, 43, 44, 46, 50, 58]
+Token 10053: [7, 13, 20, 22, 48, 55, 57]
+Token 10054: [5, 16, 17, 19, 20, 26, 35]
+Token 10055: [4, 7, 20, 22, 48, 55, 62]
+Token 10056: [0, 8, 10, 11, 56, 58]
+Token 10057: [40, 41, 44, 45, 46, 50, 58]
+Token 10058: [21, 29, 34, 36, 37, 39, 43, 50, 52, 53]
+Token 10059: [12, 18, 20, 34, 35, 41, 48, 49]
+Token 10060: [3, 4, 6, 7, 9, 13, 20, 48, 57]
+Token 10061: [20, 31, 32, 34, 35, 36, 37, 48, 50]
+Token 10062: [19, 32, 34, 35, 36, 37, 48]
+Token 10063: [23, 29, 31, 37, 45, 47, 48, 59, 61]
+Token 10064: [17, 33, 40, 47, 49]
+Token 10065: [4, 7, 8, 13, 20, 55, 57]
+Token 10066: [18, 20, 26, 31, 32, 34, 35, 36, 48, 49]
+Token 10067: [41, 44, 45, 46, 50, 57, 60]
+Token 10068: [3, 14, 16, 17, 32, 58]
+Token 10069: [29, 37, 42, 45, 46, 47, 58, 59, 60]
+Token 10070: [0, 27, 34, 41, 47, 49, 50, 51, 56]
+Token 10071: [30, 43, 44, 46, 47, 48, 49, 61]
+Token 10072: [32, 34, 41, 48, 49]
+Token 10073: [21, 23, 29, 34, 37, 39, 43, 52, 53]
+Token 10074: [28, 30, 36, 41, 44, 46, 50, 57, 59]
+Token 10075: [16, 18, 30, 32, 33, 47, 48]
+Token 10076: [3, 5, 11, 15, 16, 19, 20, 21]
+Token 10077: [33, 35, 40, 46, 48, 49, 50, 55, 62]
+Token 10078: [3, 4, 6, 7, 13, 22, 48, 55, 57]
+Token 10079: [26, 28, 34, 40, 42, 44, 45, 56, 57, 58]
+Token 10080: [4, 37, 45, 50, 51, 53, 54]
+Token 10081: [3, 15, 17, 18, 20, 24]
+Token 10082: [14, 16, 27, 30, 31, 45, 46]
+Token 10083: [22, 30, 35, 44]
+Token 10084: [29, 31, 42, 43, 45, 46, 59, 61]
+Token 10085: [22, 24, 30, 38, 39, 40, 44, 51, 53, 54]
+Token 10086: [19, 32, 34, 35, 37, 48, 51]
+Token 10087: [14, 28, 30, 31, 32, 33, 37, 46]
+Token 10088: [1, 3, 8, 14, 17, 18, 19, 32, 58]
+Token 10089: [33, 39, 41, 48, 56, 57]
+Token 10090: [28, 30, 40, 41, 44, 50, 60]
+Token 10091: [4, 6, 7, 13, 21]
+Token 10092: [3, 6, 7, 13, 20, 21, 22, 48, 57]
+Token 10093: [7, 13, 22, 55, 57, 62]
+Token 10094: [0, 5, 6, 8, 9, 15, 22, 24]
+Token 10095: [22, 36, 38, 39, 45, 52, 53]
+Token 10096: [13, 15, 27, 29, 30, 31, 36]
+Token 10097: [6, 12, 14, 20, 28, 31, 43]
+Token 10098: [4, 6, 7, 20, 22, 55, 57]
+Token 10099: [25, 32, 34, 45, 48, 49, 54, 61]
+Token 10100: [17, 27, 28, 30, 31, 33, 37]
+Token 10101: [4, 5, 18, 20, 60]
+Token 10102: [1, 2, 34, 36, 42, 47, 49, 50, 52, 63]
+Token 10103: [4, 11, 13, 39, 45, 47, 53, 58, 61, 62]
+Token 10104: [30, 36, 41, 43, 44, 46, 50, 57, 59]
+Token 10105: [1, 3, 17, 18, 19, 23, 31]
+Token 10106: [27, 38, 41, 42, 43, 48, 54, 55, 56]
+Token 10107: [28, 30, 41, 43, 44, 46, 57, 60]
+Token 10108: [1, 4, 5, 11, 19, 20, 54]
+Token 10109: [14, 25, 26, 27, 28, 29, 34, 41, 44]
+Token 10110: [2, 48, 50, 51, 52, 57]
+Token 10111: [26, 32, 34, 46, 48, 49, 51, 55, 62]
+Token 10112: [4, 6, 7, 9, 20, 22, 55, 57]
+Token 10113: [21, 40, 43, 44, 57, 58, 60]
+Token 10114: [2, 14, 15, 18, 19, 34]
+Token 10115: [3, 4, 7, 9, 13, 20, 55, 62]
+Token 10116: [5, 13, 14, 15, 16, 27, 61, 63]
+Token 10117: [3, 4, 31, 37, 39, 53, 54, 60]
+Token 10118: [15, 17, 27, 28, 31, 37, 44, 46]
+Token 10119: [3, 4, 7, 20, 22, 48, 55, 57]
+Token 10120: [0, 1, 28, 34, 42, 48, 50, 57]
+Token 10121: [4, 10, 12, 24, 26, 27, 42]
+Token 10122: [28, 41, 42, 48, 55, 57]
+Token 10123: [25, 27, 39, 41, 42, 48, 55]
+Token 10124: [14, 26, 28, 29, 31, 35, 42, 43]
+Token 10125: [7, 20, 55, 57, 62]
+Token 10126: [10, 14, 17, 18, 19, 20, 24, 31, 33, 34]
+Token 10127: [4, 14, 15, 17, 18, 19, 24, 31, 33, 34, 59]
+Token 10128: [3, 9, 14, 15, 33, 59]
+
+Detailed Function Mappings:
+------------------------------
+
+Token 10000:
+  0x8742c -> cache_set_16 (llama_vocab)
+  0x896d3 -> cache_set_27 (token_to_piece)
+  0x89790 -> cache_set_30 (token_to_piece)
+  0x89798 -> cache_set_30 (token_to_piece)
+  0x8759f -> cache_set_22 (llama_vocab)
+  0x89ba5 -> cache_set_46 (token_to_piece)
+  0x873ac -> cache_set_14 (llama_vocab)
+  0x897b3 -> cache_set_30 (token_to_piece)
+  0x897dc -> cache_set_31 (token_to_piece)
+
+Token 10001:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0x-1fdac -> cache_set_9 (token_to_piece)
+  0xf0114 -> cache_set_4 (token_to_piece)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xedfb3 -> cache_set_62 (llama_vocab)
+  0xf01c5 -> cache_set_7 (token_to_piece)
+  0xf01c7 -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10002:
+  0xe220a -> cache_set_8 (token_to_piece)
+  0xdfe17 -> cache_set_56 (llama_vocab)
+  0xe20eb -> cache_set_3 (token_to_piece)
+  0x-2db15 -> cache_set_19 (token_to_piece)
+  0xe2183 -> cache_set_6 (token_to_piece)
+  0xdff8a -> cache_set_62 (llama_vocab)
+  0xdfd97 -> cache_set_54 (llama_vocab)
+  0xe219c -> cache_set_6 (token_to_piece)
+  0xe21a2 -> cache_set_6 (token_to_piece)
+  0xe21a4 -> cache_set_6 (token_to_piece)
+  0xe2beb -> cache_set_47 (token_to_piece)
+
+Token 10003:
+  0x10ecc0 -> cache_set_51 (token_to_piece)
+  0x10ef0e -> cache_set_60 (token_to_piece)
+  0x10ed50 -> cache_set_53 (token_to_piece)
+  0x10cb57 -> cache_set_45 (llama_vocab)
+  0x10ed58 -> cache_set_53 (token_to_piece)
+  0x10cb5f -> cache_set_45 (llama_vocab)
+  0x10f16a -> cache_set_5 (token_to_piece)
+  0x10c96c -> cache_set_37 (llama_vocab)
+  0x10ed73 -> cache_set_53 (token_to_piece)
+  0x10c9ec -> cache_set_39 (llama_vocab)
+
+Token 10004:
+  0x87b14 -> cache_set_44 (token_to_piece)
+  0x-884ec -> cache_set_44 (token_to_piece)
+  0x87962 -> cache_set_37 (token_to_piece)
+  0x877a4 -> cache_set_30 (token_to_piece)
+  0x855b3 -> cache_set_22 (llama_vocab)
+  0x877c5 -> cache_set_31 (token_to_piece)
+  0x877c9 -> cache_set_31 (token_to_piece)
+  0x877cb -> cache_set_31 (token_to_piece)
+
+Token 10005:
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0xf0355 -> cache_set_13 (token_to_piece)
+  0xf0570 -> cache_set_21 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xedfb3 -> cache_set_62 (llama_vocab)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c7 -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+  0xf01f7 -> cache_set_7 (token_to_piece)
+
+Token 10006:
+  0xa800b -> cache_set_0 (token_to_piece)
+  0xa7c10 -> cache_set_48 (token_to_piece)
+  0xa7c21 -> cache_set_48 (token_to_piece)
+  0xa7e4c -> cache_set_57 (token_to_piece)
+  0xa8067 -> cache_set_1 (token_to_piece)
+  0xa7cbd -> cache_set_50 (token_to_piece)
+  0xa7cc4 -> cache_set_51 (token_to_piece)
+  0xa7cc6 -> cache_set_51 (token_to_piece)
+  0xa7d2a -> cache_set_52 (token_to_piece)
+  0x-682b5 -> cache_set_53 (token_to_piece)
+  0xa7bde -> cache_set_47 (token_to_piece)
+
+Token 10007:
+  0xeac0d -> cache_set_48 (token_to_piece)
+  0xe8a1c -> cache_set_40 (llama_vocab)
+  0xe8829 -> cache_set_32 (llama_vocab)
+  0xeac2e -> cache_set_48 (token_to_piece)
+  0xeac2f -> cache_set_48 (token_to_piece)
+  0xeac34 -> cache_set_48 (token_to_piece)
+  0xeac60 -> cache_set_49 (token_to_piece)
+  0xe88a9 -> cache_set_34 (llama_vocab)
+  0xeab7d -> cache_set_45 (token_to_piece)
+  0xeaf8c -> cache_set_62 (token_to_piece)
+  0xeadbe -> cache_set_54 (token_to_piece)
+
+Token 10008:
+  0xfe45c -> cache_set_17 (token_to_piece)
+  0xfe876 -> cache_set_33 (token_to_piece)
+  0xfe47d -> cache_set_17 (token_to_piece)
+  0xfe483 -> cache_set_18 (token_to_piece)
+  0xfe485 -> cache_set_18 (token_to_piece)
+  0xfe4a8 -> cache_set_18 (token_to_piece)
+  0xfe4af -> cache_set_18 (token_to_piece)
+  0xfe3cc -> cache_set_15 (token_to_piece)
+  0xfe7cc -> cache_set_31 (token_to_piece)
+  0xfe3d1 -> cache_set_15 (token_to_piece)
+  0xfe7db -> cache_set_31 (token_to_piece)
+  0xfe3e2 -> cache_set_15 (token_to_piece)
+
+Token 10009:
+  0xe7c37 -> cache_set_48 (llama_vocab)
+  0xe9ede -> cache_set_59 (token_to_piece)
+  0xe9f0b -> cache_set_60 (token_to_piece)
+  0x-25cf5 -> cache_set_12 (token_to_piece)
+  0xe9f10 -> cache_set_60 (token_to_piece)
+  0xe9f21 -> cache_set_60 (token_to_piece)
+  0xea159 -> cache_set_5 (token_to_piece)
+  0xe7da2 -> cache_set_54 (llama_vocab)
+  0xe9fa3 -> cache_set_62 (token_to_piece)
+  0xe7bb7 -> cache_set_46 (llama_vocab)
+  0xe9fbd -> cache_set_62 (token_to_piece)
+  0xe9fc0 -> cache_set_63 (token_to_piece)
+  0xe9fc4 -> cache_set_63 (token_to_piece)
+  0xe9fc6 -> cache_set_63 (token_to_piece)
+  0xe9fee -> cache_set_63 (token_to_piece)
+
+Token 10010:
+  0xfe439 -> cache_set_16 (token_to_piece)
+  0xfc240 -> cache_set_9 (llama_vocab)
+  0xfc04d -> cache_set_1 (llama_vocab)
+  0xfe452 -> cache_set_17 (token_to_piece)
+  0xfe454 -> cache_set_17 (token_to_piece)
+  0xfe458 -> cache_set_17 (token_to_piece)
+  0xfe47d -> cache_set_17 (token_to_piece)
+  0xfc0cd -> cache_set_3 (llama_vocab)
+  0x-11b1f -> cache_set_19 (token_to_piece)
+  0xfe3a1 -> cache_set_14 (token_to_piece)
+  0xfe5e2 -> cache_set_23 (token_to_piece)
+  0xfe7fd -> cache_set_31 (token_to_piece)
+
+Token 10011:
+  0xeac29 -> cache_set_48 (token_to_piece)
+  0x-253b6 -> cache_set_49 (token_to_piece)
+  0xeaadd -> cache_set_43 (token_to_piece)
+  0xeaf19 -> cache_set_60 (token_to_piece)
+  0xeab20 -> cache_set_44 (token_to_piece)
+  0xead58 -> cache_set_53 (token_to_piece)
+  0xeaf89 -> cache_set_62 (token_to_piece)
+  0xeaba2 -> cache_set_46 (token_to_piece)
+  0xeabbc -> cache_set_46 (token_to_piece)
+  0xeabbf -> cache_set_46 (token_to_piece)
+  0xeabc1 -> cache_set_47 (token_to_piece)
+  0xeabc5 -> cache_set_47 (token_to_piece)
+
+Token 10012:
+  0xeaa31 -> cache_set_40 (token_to_piece)
+  0xeaa5e -> cache_set_41 (token_to_piece)
+  0xeaa74 -> cache_set_41 (token_to_piece)
+  0xeaaf6 -> cache_set_43 (token_to_piece)
+  0xeab10 -> cache_set_44 (token_to_piece)
+  0xeab19 -> cache_set_44 (token_to_piece)
+  0xeab3a -> cache_set_44 (token_to_piece)
+  0xeab41 -> cache_set_45 (token_to_piece)
+  0xeb55e -> cache_set_21 (token_to_piece)
+  0xe878a -> cache_set_30 (llama_vocab)
+
+Token 10013:
+  0xfe469 -> cache_set_17 (token_to_piece)
+  0xfe482 -> cache_set_18 (token_to_piece)
+  0xfe486 -> cache_set_18 (token_to_piece)
+  0xfe488 -> cache_set_18 (token_to_piece)
+  0x-1182f -> cache_set_31 (token_to_piece)
+  0xfe3d6 -> cache_set_15 (token_to_piece)
+  0xfe3e7 -> cache_set_15 (token_to_piece)
+
+Token 10014:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10015:
+  0xa7c60 -> cache_set_49 (token_to_piece)
+  0xa808d -> cache_set_2 (token_to_piece)
+  0xa80e9 -> cache_set_3 (token_to_piece)
+  0xa7d1d -> cache_set_52 (token_to_piece)
+  0xa5b2c -> cache_set_44 (llama_vocab)
+  0xa5939 -> cache_set_36 (llama_vocab)
+  0xa7d3e -> cache_set_52 (token_to_piece)
+  0xa7d3f -> cache_set_52 (token_to_piece)
+  0xa7d42 -> cache_set_53 (token_to_piece)
+  0xa7d48 -> cache_set_53 (token_to_piece)
+  0xa59b9 -> cache_set_38 (llama_vocab)
+
+Token 10016:
+  0xeac29 -> cache_set_48 (token_to_piece)
+  0x-253b6 -> cache_set_49 (token_to_piece)
+  0xeab0a -> cache_set_44 (token_to_piece)
+  0xeab0f -> cache_set_44 (token_to_piece)
+  0xeab20 -> cache_set_44 (token_to_piece)
+  0xead58 -> cache_set_53 (token_to_piece)
+  0xeaf66 -> cache_set_61 (token_to_piece)
+  0xe89a9 -> cache_set_38 (llama_vocab)
+  0xeabed -> cache_set_47 (token_to_piece)
+
+Token 10017:
+  0x110800 -> cache_set_32 (token_to_piece)
+  0xc00 -> cache_set_48 (token_to_piece)
+  0x110c0f -> cache_set_48 (token_to_piece)
+  0x110c7f -> cache_set_49 (token_to_piece)
+  0x110890 -> cache_set_34 (token_to_piece)
+  0x110ca5 -> cache_set_50 (token_to_piece)
+  0x10e4ac -> cache_set_18 (llama_vocab)
+  0x1108b2 -> cache_set_34 (token_to_piece)
+  0x1108b3 -> cache_set_34 (token_to_piece)
+  0x1108b7 -> cache_set_34 (token_to_piece)
+  0x1108dc -> cache_set_35 (token_to_piece)
+  0x11091f -> cache_set_36 (token_to_piece)
+  0x10e52c -> cache_set_20 (llama_vocab)
+
+Token 10018:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0x-1fdac -> cache_set_9 (token_to_piece)
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0x-1faec -> cache_set_20 (token_to_piece)
+  0xf0514 -> cache_set_20 (token_to_piece)
+  0xf012a -> cache_set_4 (token_to_piece)
+  0xf0570 -> cache_set_21 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xf05b9 -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+
+Token 10019:
+  0xfe45c -> cache_set_17 (token_to_piece)
+  0xfe464 -> cache_set_17 (token_to_piece)
+  0xfc26b -> cache_set_9 (llama_vocab)
+  0xfc078 -> cache_set_1 (llama_vocab)
+  0xfe47f -> cache_set_17 (token_to_piece)
+  0x-11af4 -> cache_set_20 (token_to_piece)
+  0xfe3cc -> cache_set_15 (token_to_piece)
+  0xfe3e2 -> cache_set_15 (token_to_piece)
+
+Token 10020:
+  0xe8801 -> cache_set_32 (llama_vocab)
+  0xeac0c -> cache_set_48 (token_to_piece)
+  0xeac31 -> cache_set_48 (token_to_piece)
+  0xeac74 -> cache_set_49 (token_to_piece)
+  0xe8881 -> cache_set_34 (llama_vocab)
+  0xeab28 -> cache_set_44 (token_to_piece)
+  0xeab6b -> cache_set_45 (token_to_piece)
+  0xe89ec -> cache_set_39 (llama_vocab)
+  0xeabed -> cache_set_47 (token_to_piece)
+
+Token 10021:
+  0xeaa37 -> cache_set_40 (token_to_piece)
+  0xeaa69 -> cache_set_41 (token_to_piece)
+  0xeaec0 -> cache_set_59 (token_to_piece)
+  0xeaafc -> cache_set_43 (token_to_piece)
+  0xe8710 -> cache_set_28 (llama_vocab)
+  0xeab15 -> cache_set_44 (token_to_piece)
+  0xeab19 -> cache_set_44 (token_to_piece)
+  0xeb564 -> cache_set_21 (token_to_piece)
+  0xe8790 -> cache_set_30 (llama_vocab)
+
+Token 10022:
+  0xeac19 -> cache_set_48 (token_to_piece)
+  0xe8826 -> cache_set_32 (llama_vocab)
+  0xe8999 -> cache_set_38 (llama_vocab)
+  0xe87a6 -> cache_set_30 (llama_vocab)
+  0xeabac -> cache_set_46 (token_to_piece)
+  0xeabad -> cache_set_46 (token_to_piece)
+  0xeabb1 -> cache_set_46 (token_to_piece)
+  0xeabb3 -> cache_set_46 (token_to_piece)
+  0xeabb5 -> cache_set_46 (token_to_piece)
+
+Token 10023:
+  0x110cb0 -> cache_set_50 (token_to_piece)
+  0xcb0 -> cache_set_50 (token_to_piece)
+  0x1108b5 -> cache_set_34 (token_to_piece)
+  0x110cbf -> cache_set_50 (token_to_piece)
+  0x110afe -> cache_set_43 (token_to_piece)
+  0x110d0c -> cache_set_52 (token_to_piece)
+  0x110940 -> cache_set_37 (token_to_piece)
+  0x110948 -> cache_set_37 (token_to_piece)
+  0x110d5a -> cache_set_53 (token_to_piece)
+  0x10e55c -> cache_set_21 (llama_vocab)
+  0x110961 -> cache_set_37 (token_to_piece)
+  0x110962 -> cache_set_37 (token_to_piece)
+  0x110963 -> cache_set_37 (token_to_piece)
+  0x110967 -> cache_set_37 (token_to_piece)
+  0x110993 -> cache_set_38 (token_to_piece)
+  0x1109cf -> cache_set_39 (token_to_piece)
+  0x10e5dc -> cache_set_23 (llama_vocab)
+
+Token 10024:
+  0xa9a0a -> cache_set_40 (token_to_piece)
+  0xa7617 -> cache_set_24 (llama_vocab)
+  0x-66315 -> cache_set_51 (token_to_piece)
+  0xa9d47 -> cache_set_53 (token_to_piece)
+  0xa997b -> cache_set_37 (token_to_piece)
+  0xa778a -> cache_set_30 (llama_vocab)
+  0xa7597 -> cache_set_22 (llama_vocab)
+  0xa999c -> cache_set_38 (token_to_piece)
+  0xa999e -> cache_set_38 (token_to_piece)
+  0xa99a0 -> cache_set_38 (token_to_piece)
+  0xa99a4 -> cache_set_38 (token_to_piece)
+  0xa99a6 -> cache_set_38 (token_to_piece)
+
+Token 10025:
+  0xa985c -> cache_set_33 (token_to_piece)
+  0xa98f4 -> cache_set_35 (token_to_piece)
+  0xa990d -> cache_set_36 (token_to_piece)
+  0xa9915 -> cache_set_36 (token_to_piece)
+  0xa993f -> cache_set_36 (token_to_piece)
+  0xa7588 -> cache_set_22 (llama_vocab)
+  0x-66664 -> cache_set_38 (token_to_piece)
+
+Token 10026:
+  0x1108b0 -> cache_set_34 (token_to_piece)
+  0x1108b5 -> cache_set_34 (token_to_piece)
+  0x110cbf -> cache_set_50 (token_to_piece)
+  0x110afe -> cache_set_43 (token_to_piece)
+  0x110d5a -> cache_set_53 (token_to_piece)
+  0x10e55c -> cache_set_21 (llama_vocab)
+  0x110965 -> cache_set_37 (token_to_piece)
+  0x11098c -> cache_set_38 (token_to_piece)
+  0x1109cf -> cache_set_39 (token_to_piece)
+  0x10e5dc -> cache_set_23 (llama_vocab)
+
+Token 10027:
+  0xfe84b -> cache_set_33 (token_to_piece)
+  0xfe68c -> cache_set_26 (token_to_piece)
+  0xfc2e2 -> cache_set_11 (llama_vocab)
+  0xfe4e3 -> cache_set_19 (token_to_piece)
+  0xfc2ea -> cache_set_11 (llama_vocab)
+  0xfe8f0 -> cache_set_35 (token_to_piece)
+  0xfe4fc -> cache_set_19 (token_to_piece)
+  0xfe4fd -> cache_set_19 (token_to_piece)
+  0xfe4fe -> cache_set_19 (token_to_piece)
+  0xfef4b -> cache_set_61 (token_to_piece)
+  0xfc177 -> cache_set_5 (llama_vocab)
+
+Token 10028:
+  0x110435 -> cache_set_16 (token_to_piece)
+  0x1104c0 -> cache_set_19 (token_to_piece)
+  0x1104c8 -> cache_set_19 (token_to_piece)
+  0x1108d5 -> cache_set_35 (token_to_piece)
+  0x1108da -> cache_set_35 (token_to_piece)
+  0x1104e1 -> cache_set_19 (token_to_piece)
+  0x1104e2 -> cache_set_19 (token_to_piece)
+  0x1104e7 -> cache_set_19 (token_to_piece)
+  0x110513 -> cache_set_20 (token_to_piece)
+  0x110f30 -> cache_set_60 (token_to_piece)
+  0x10e15c -> cache_set_5 (llama_vocab)
+
+Token 10029:
+  0x3220 -> cache_set_8 (token_to_piece)
+  0x112e20 -> cache_set_56 (token_to_piece)
+  0x11306e -> cache_set_1 (token_to_piece)
+  0x110cb7 -> cache_set_50 (llama_vocab)
+  0x112eb8 -> cache_set_58 (token_to_piece)
+  0x112ed1 -> cache_set_59 (token_to_piece)
+  0x112ed2 -> cache_set_59 (token_to_piece)
+  0x112ed9 -> cache_set_59 (token_to_piece)
+  0x112edb -> cache_set_59 (token_to_piece)
+
+Token 10030:
+  0xf0233 -> cache_set_8 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0514 -> cache_set_20 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xf01c5 -> cache_set_7 (token_to_piece)
+  0xf01c6 -> cache_set_7 (token_to_piece)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10031:
+  0x8783b -> cache_set_32 (token_to_piece)
+  0x8771c -> cache_set_28 (token_to_piece)
+  0x-884e4 -> cache_set_44 (token_to_piece)
+  0x877ac -> cache_set_30 (token_to_piece)
+  0x877b4 -> cache_set_30 (token_to_piece)
+  0x855bb -> cache_set_22 (llama_vocab)
+  0x87bc6 -> cache_set_47 (token_to_piece)
+  0x853c8 -> cache_set_15 (llama_vocab)
+  0x877cd -> cache_set_31 (token_to_piece)
+  0x877ce -> cache_set_31 (token_to_piece)
+  0x877f8 -> cache_set_31 (token_to_piece)
+  0x877ff -> cache_set_31 (token_to_piece)
+
+Token 10032:
+  0xa9c41 -> cache_set_49 (token_to_piece)
+  0xa9852 -> cache_set_33 (token_to_piece)
+  0xa7659 -> cache_set_25 (llama_vocab)
+  0xa746e -> cache_set_17 (llama_vocab)
+  0xa9874 -> cache_set_33 (token_to_piece)
+  0xa74ee -> cache_set_19 (llama_vocab)
+  0x-666fe -> cache_set_36 (token_to_piece)
+  0xa97c2 -> cache_set_31 (token_to_piece)
+  0xa97c7 -> cache_set_31 (token_to_piece)
+
+Token 10033:
+  0xeaa33 -> cache_set_40 (token_to_piece)
+  0xeae6f -> cache_set_57 (token_to_piece)
+  0xeaa76 -> cache_set_41 (token_to_piece)
+  0xeaebc -> cache_set_58 (token_to_piece)
+  0xe88f7 -> cache_set_35 (llama_vocab)
+  0xeaaf8 -> cache_set_43 (token_to_piece)
+  0xeaf05 -> cache_set_60 (token_to_piece)
+  0xeaf0a -> cache_set_60 (token_to_piece)
+  0xe870c -> cache_set_28 (llama_vocab)
+  0xeab17 -> cache_set_44 (token_to_piece)
+  0xeab19 -> cache_set_44 (token_to_piece)
+  0xeab43 -> cache_set_45 (token_to_piece)
+  0xe878c -> cache_set_30 (llama_vocab)
+
+Token 10034:
+  0xeaab2 -> cache_set_42 (token_to_piece)
+  0xeaac8 -> cache_set_43 (token_to_piece)
+  0xeab42 -> cache_set_45 (token_to_piece)
+  0xeab4a -> cache_set_45 (token_to_piece)
+  0xeab69 -> cache_set_45 (token_to_piece)
+  0xe87de -> cache_set_31 (llama_vocab)
+
+Token 10035:
+  0xe9c0f -> cache_set_48 (token_to_piece)
+  0xe9a59 -> cache_set_41 (token_to_piece)
+  0xe766d -> cache_set_25 (llama_vocab)
+  0xe9a72 -> cache_set_41 (token_to_piece)
+  0xe9a76 -> cache_set_41 (token_to_piece)
+  0xe9aa4 -> cache_set_42 (token_to_piece)
+  0xea4c1 -> cache_set_19 (token_to_piece)
+  0xe76ed -> cache_set_27 (llama_vocab)
+  0x-264ff -> cache_set_44 (token_to_piece)
+  0xe99c1 -> cache_set_39 (token_to_piece)
+  0x-2623f -> cache_set_55 (token_to_piece)
+
+Token 10036:
+  0x-66317 -> cache_set_51 (token_to_piece)
+  0xa9ce9 -> cache_set_51 (token_to_piece)
+  0xa98ee -> cache_set_35 (token_to_piece)
+  0xa7780 -> cache_set_30 (llama_vocab)
+  0xa9981 -> cache_set_38 (token_to_piece)
+  0xa7595 -> cache_set_22 (llama_vocab)
+  0xa99a0 -> cache_set_38 (token_to_piece)
+  0xa99cc -> cache_set_39 (token_to_piece)
+
+Token 10037:
+  0x85416 -> cache_set_16 (llama_vocab)
+  0x-887d6 -> cache_set_32 (token_to_piece)
+  0x876bd -> cache_set_26 (token_to_piece)
+  0x876ef -> cache_set_27 (token_to_piece)
+  0x8777a -> cache_set_29 (token_to_piece)
+  0x87b8f -> cache_set_46 (token_to_piece)
+  0x8779d -> cache_set_30 (token_to_piece)
+  0x8779f -> cache_set_30 (token_to_piece)
+  0x877a5 -> cache_set_30 (token_to_piece)
+  0x877c6 -> cache_set_31 (token_to_piece)
+  0x877cd -> cache_set_31 (token_to_piece)
+
+Token 10038:
+  0xfe610 -> cache_set_24 (token_to_piece)
+  0xfe823 -> cache_set_32 (token_to_piece)
+  0xfe846 -> cache_set_33 (token_to_piece)
+  0xfe457 -> cache_set_17 (token_to_piece)
+  0xfc25e -> cache_set_9 (llama_vocab)
+  0xfe45f -> cache_set_17 (token_to_piece)
+  0xfc073 -> cache_set_1 (llama_vocab)
+  0xfe47c -> cache_set_17 (token_to_piece)
+  0xfe4aa -> cache_set_18 (token_to_piece)
+  0xfe4e6 -> cache_set_19 (token_to_piece)
+  0x-11af9 -> cache_set_20 (token_to_piece)
+  0xfe39a -> cache_set_14 (token_to_piece)
+  0xfe3c7 -> cache_set_15 (token_to_piece)
+  0x-11839 -> cache_set_31 (token_to_piece)
+  0xfe7d6 -> cache_set_31 (token_to_piece)
+
+Token 10039:
+  0xeabb6 -> cache_set_46 (token_to_piece)
+  0xeabba -> cache_set_46 (token_to_piece)
+  0xeabbe -> cache_set_46 (token_to_piece)
+  0x-253bb -> cache_set_49 (token_to_piece)
+  0xeaad8 -> cache_set_43 (token_to_piece)
+  0xeabe1 -> cache_set_47 (token_to_piece)
+  0xeabe8 -> cache_set_47 (token_to_piece)
+
+Token 10040:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0x-1faec -> cache_set_20 (token_to_piece)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf0355 -> cache_set_13 (token_to_piece)
+  0xf0570 -> cache_set_21 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xf01c6 -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+
+Token 10041:
+  0xeb004 -> cache_set_0 (token_to_piece)
+  0xe880b -> cache_set_32 (llama_vocab)
+  0xeac10 -> cache_set_48 (token_to_piece)
+  0xeac11 -> cache_set_48 (token_to_piece)
+  0xeac16 -> cache_set_48 (token_to_piece)
+  0xeac7e -> cache_set_49 (token_to_piece)
+  0xe888b -> cache_set_34 (llama_vocab)
+  0xeab5f -> cache_set_45 (token_to_piece)
+  0x-250a1 -> cache_set_61 (token_to_piece)
+  0xeaf5f -> cache_set_61 (token_to_piece)
+  0xeab64 -> cache_set_45 (token_to_piece)
+  0xeafde -> cache_set_63 (token_to_piece)
+  0xeabf7 -> cache_set_47 (token_to_piece)
+
+Token 10042:
+  0xfe82d -> cache_set_32 (token_to_piece)
+  0xfe461 -> cache_set_17 (token_to_piece)
+  0xfe469 -> cache_set_17 (token_to_piece)
+  0xfc270 -> cache_set_9 (llama_vocab)
+  0xfc07d -> cache_set_1 (llama_vocab)
+  0xfe486 -> cache_set_18 (token_to_piece)
+  0xfe48c -> cache_set_18 (token_to_piece)
+  0xfe4ad -> cache_set_18 (token_to_piece)
+  0xfe7e0 -> cache_set_31 (token_to_piece)
+  0xfe3e7 -> cache_set_15 (token_to_piece)
+
+Token 10043:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xf0114 -> cache_set_4 (token_to_piece)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xf01cb -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10044:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xf0233 -> cache_set_8 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0x-1fdac -> cache_set_9 (token_to_piece)
+  0xf0114 -> cache_set_4 (token_to_piece)
+  0xf012a -> cache_set_4 (token_to_piece)
+  0xf0355 -> cache_set_13 (token_to_piece)
+  0xf0570 -> cache_set_21 (token_to_piece)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xf05b9 -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c9 -> cache_set_7 (token_to_piece)
+  0xf01cb -> cache_set_7 (token_to_piece)
+
+Token 10045:
+  0xfe422 -> cache_set_16 (token_to_piece)
+  0xfe454 -> cache_set_17 (token_to_piece)
+  0xfe85e -> cache_set_33 (token_to_piece)
+  0xfe8ab -> cache_set_34 (token_to_piece)
+  0xfe8ce -> cache_set_35 (token_to_piece)
+  0xfe8f4 -> cache_set_35 (token_to_piece)
+  0xfc0fb -> cache_set_3 (llama_vocab)
+  0xfe501 -> cache_set_20 (token_to_piece)
+  0xfe52b -> cache_set_20 (token_to_piece)
+  0xfe532 -> cache_set_20 (token_to_piece)
+  0xfef4f -> cache_set_61 (token_to_piece)
+  0xfc17b -> cache_set_5 (llama_vocab)
+
+Token 10046:
+  0xa9a0e -> cache_set_40 (token_to_piece)
+  0xa761b -> cache_set_24 (llama_vocab)
+  0xa9b30 -> cache_set_44 (token_to_piece)
+  0xa9b3d -> cache_set_44 (token_to_piece)
+  0xa759b -> cache_set_22 (llama_vocab)
+  0xa99a4 -> cache_set_38 (token_to_piece)
+  0xa99aa -> cache_set_38 (token_to_piece)
+  0xa99cb -> cache_set_39 (token_to_piece)
+  0xaa3ef -> cache_set_15 (token_to_piece)
+
+Token 10047:
+  0xeb009 -> cache_set_0 (token_to_piece)
+  0xe880b -> cache_set_32 (llama_vocab)
+  0xeac10 -> cache_set_48 (token_to_piece)
+  0xeac12 -> cache_set_48 (token_to_piece)
+  0xeac42 -> cache_set_49 (token_to_piece)
+  0xeb65f -> cache_set_25 (token_to_piece)
+  0xe888b -> cache_set_34 (llama_vocab)
+  0xe89f6 -> cache_set_39 (llama_vocab)
+
+Token 10048:
+  0x85070 -> cache_set_1 (llama_vocab)
+  0x-88b7c -> cache_set_18 (token_to_piece)
+  0x87344 -> cache_set_13 (token_to_piece)
+  0x87744 -> cache_set_29 (token_to_piece)
+  0x87753 -> cache_set_29 (token_to_piece)
+  0x851db -> cache_set_7 (llama_vocab)
+  0x873dc -> cache_set_15 (token_to_piece)
+  0x84ff0 -> cache_set_63 (llama_vocab)
+  0x873f7 -> cache_set_15 (token_to_piece)
+  0x873f9 -> cache_set_15 (token_to_piece)
+  0x873fb -> cache_set_15 (token_to_piece)
+
+Token 10049:
+  0xfe422 -> cache_set_16 (token_to_piece)
+  0xfe44f -> cache_set_17 (token_to_piece)
+  0xfc0fb -> cache_set_3 (llama_vocab)
+  0xfe502 -> cache_set_20 (token_to_piece)
+  0xfef4f -> cache_set_61 (token_to_piece)
+  0x-11a71 -> cache_set_22 (token_to_piece)
+
+Token 10050:
+  0x87872 -> cache_set_33 (token_to_piece)
+  0x87488 -> cache_set_18 (token_to_piece)
+  0x87502 -> cache_set_20 (token_to_piece)
+  0x8750a -> cache_set_20 (token_to_piece)
+  0x87523 -> cache_set_20 (token_to_piece)
+  0x87527 -> cache_set_20 (token_to_piece)
+  0x8519e -> cache_set_6 (llama_vocab)
+
+Token 10051:
+  0xa98c2 -> cache_set_35 (token_to_piece)
+  0xa9cef -> cache_set_51 (token_to_piece)
+  0xa98ef -> cache_set_35 (token_to_piece)
+  0xa9905 -> cache_set_36 (token_to_piece)
+  0xa9b3d -> cache_set_44 (token_to_piece)
+  0xa9d4b -> cache_set_53 (token_to_piece)
+  0xa9d6e -> cache_set_53 (token_to_piece)
+  0xa9987 -> cache_set_38 (token_to_piece)
+  0xa759b -> cache_set_22 (llama_vocab)
+  0xa99a0 -> cache_set_38 (token_to_piece)
+  0xa99a2 -> cache_set_38 (token_to_piece)
+  0xa99aa -> cache_set_38 (token_to_piece)
+  0xa99d2 -> cache_set_39 (token_to_piece)
+  0xaa3ef -> cache_set_15 (token_to_piece)
+
+Token 10052:
+  0xeaa35 -> cache_set_40 (token_to_piece)
+  0xeaa62 -> cache_set_41 (token_to_piece)
+  0xeaa67 -> cache_set_41 (token_to_piece)
+  0xeaca3 -> cache_set_50 (token_to_piece)
+  0xeaebe -> cache_set_58 (token_to_piece)
+  0xeaaf2 -> cache_set_43 (token_to_piece)
+  0xe88f9 -> cache_set_35 (llama_vocab)
+  0xeaafa -> cache_set_43 (token_to_piece)
+  0xe8901 -> cache_set_36 (llama_vocab)
+  0xe870e -> cache_set_28 (llama_vocab)
+  0xeab19 -> cache_set_44 (token_to_piece)
+  0xeab1b -> cache_set_44 (token_to_piece)
+  0xeab81 -> cache_set_46 (token_to_piece)
+  0x-2545e -> cache_set_46 (token_to_piece)
+
+Token 10053:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf0355 -> cache_set_13 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c9 -> cache_set_7 (token_to_piece)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10054:
+  0xfe41e -> cache_set_16 (token_to_piece)
+  0xfe461 -> cache_set_17 (token_to_piece)
+  0xfe699 -> cache_set_26 (token_to_piece)
+  0xfe4db -> cache_set_19 (token_to_piece)
+  0xfe8f5 -> cache_set_35 (token_to_piece)
+  0xfe500 -> cache_set_20 (token_to_piece)
+  0xfe527 -> cache_set_20 (token_to_piece)
+  0xfc177 -> cache_set_5 (llama_vocab)
+
+Token 10055:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xf0114 -> cache_set_4 (token_to_piece)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf012a -> cache_set_4 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xf05be -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c5 -> cache_set_7 (token_to_piece)
+  0xf01c7 -> cache_set_7 (token_to_piece)
+  0xf01c9 -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f7 -> cache_set_7 (token_to_piece)
+
+Token 10056:
+  0x85018 -> cache_set_0 (llama_vocab)
+  0x87219 -> cache_set_8 (token_to_piece)
+  0x85020 -> cache_set_0 (llama_vocab)
+  0x84e2d -> cache_set_56 (llama_vocab)
+  0x87233 -> cache_set_8 (token_to_piece)
+  0x87238 -> cache_set_8 (token_to_piece)
+  0x8723a -> cache_set_8 (token_to_piece)
+  0x8723c -> cache_set_8 (token_to_piece)
+  0x872a0 -> cache_set_10 (token_to_piece)
+  0x84ead -> cache_set_58 (llama_vocab)
+  0x-88d3f -> cache_set_11 (token_to_piece)
+
+Token 10057:
+  0xeaa35 -> cache_set_40 (token_to_piece)
+  0xeaa62 -> cache_set_41 (token_to_piece)
+  0xeaca3 -> cache_set_50 (token_to_piece)
+  0xeaebe -> cache_set_58 (token_to_piece)
+  0xeab17 -> cache_set_44 (token_to_piece)
+  0xeab45 -> cache_set_45 (token_to_piece)
+  0xeab81 -> cache_set_46 (token_to_piece)
+  0x-2545e -> cache_set_46 (token_to_piece)
+
+Token 10058:
+  0xa9880 -> cache_set_34 (token_to_piece)
+  0xa98ad -> cache_set_34 (token_to_piece)
+  0x-66353 -> cache_set_50 (token_to_piece)
+  0xa9cbc -> cache_set_50 (token_to_piece)
+  0xa9aee -> cache_set_43 (token_to_piece)
+  0xa9d09 -> cache_set_52 (token_to_piece)
+  0xa993d -> cache_set_36 (token_to_piece)
+  0xa7744 -> cache_set_29 (llama_vocab)
+  0xa9d52 -> cache_set_53 (token_to_piece)
+  0xa7559 -> cache_set_21 (llama_vocab)
+  0xa9962 -> cache_set_37 (token_to_piece)
+  0xa9966 -> cache_set_37 (token_to_piece)
+  0xa99cc -> cache_set_39 (token_to_piece)
+
+Token 10059:
+  0x110c00 -> cache_set_48 (token_to_piece)
+  0x110a4e -> cache_set_41 (token_to_piece)
+  0x110c5c -> cache_set_49 (token_to_piece)
+  0x10e4ac -> cache_set_18 (llama_vocab)
+  0x1108b1 -> cache_set_34 (token_to_piece)
+  0x1108b2 -> cache_set_34 (token_to_piece)
+  0x1108dc -> cache_set_35 (token_to_piece)
+  0x111300 -> cache_set_12 (token_to_piece)
+  0x10e52c -> cache_set_20 (llama_vocab)
+
+Token 10060:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0x-1fdac -> cache_set_9 (token_to_piece)
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0xf0114 -> cache_set_4 (token_to_piece)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf012a -> cache_set_4 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xf01c5 -> cache_set_7 (token_to_piece)
+  0xf01f7 -> cache_set_7 (token_to_piece)
+
+Token 10061:
+  0xa980f -> cache_set_32 (token_to_piece)
+  0xa9c1e -> cache_set_48 (token_to_piece)
+  0xa9825 -> cache_set_32 (token_to_piece)
+  0xa9c8e -> cache_set_50 (token_to_piece)
+  0xa989f -> cache_set_34 (token_to_piece)
+  0xa98a7 -> cache_set_34 (token_to_piece)
+  0xa98c6 -> cache_set_35 (token_to_piece)
+  0xa98eb -> cache_set_35 (token_to_piece)
+  0xa992e -> cache_set_36 (token_to_piece)
+  0xa753b -> cache_set_20 (llama_vocab)
+  0x-666b1 -> cache_set_37 (token_to_piece)
+  0xa97e2 -> cache_set_31 (token_to_piece)
+
+Token 10062:
+  0x-663e2 -> cache_set_48 (token_to_piece)
+  0xa981e -> cache_set_32 (token_to_piece)
+  0xa9823 -> cache_set_32 (token_to_piece)
+  0xa98b6 -> cache_set_34 (token_to_piece)
+  0xa74ca -> cache_set_19 (llama_vocab)
+  0xa98cf -> cache_set_35 (token_to_piece)
+  0xa98d3 -> cache_set_35 (token_to_piece)
+  0xa98d5 -> cache_set_35 (token_to_piece)
+  0xa98fa -> cache_set_35 (token_to_piece)
+  0xa9901 -> cache_set_36 (token_to_piece)
+  0xa993d -> cache_set_36 (token_to_piece)
+  0x-666a2 -> cache_set_37 (token_to_piece)
+
+Token 10063:
+  0x-253f5 -> cache_set_48 (token_to_piece)
+  0xeaecb -> cache_set_59 (token_to_piece)
+  0x-25135 -> cache_set_59 (token_to_piece)
+  0xeaf4a -> cache_set_61 (token_to_piece)
+  0xe896a -> cache_set_37 (llama_vocab)
+  0xe8777 -> cache_set_29 (llama_vocab)
+  0xeab7c -> cache_set_45 (token_to_piece)
+  0xeab7d -> cache_set_45 (token_to_piece)
+  0xeb5cb -> cache_set_23 (token_to_piece)
+  0xeabea -> cache_set_47 (token_to_piece)
+  0xe87f7 -> cache_set_31 (llama_vocab)
+
+Token 10064:
+  0xa9a10 -> cache_set_40 (token_to_piece)
+  0xa985a -> cache_set_33 (token_to_piece)
+  0xa9c67 -> cache_set_49 (token_to_piece)
+  0xa9c6c -> cache_set_49 (token_to_piece)
+  0xa746e -> cache_set_17 (llama_vocab)
+  0xa9874 -> cache_set_33 (token_to_piece)
+  0xa987d -> cache_set_33 (token_to_piece)
+  0xa9bd1 -> cache_set_47 (token_to_piece)
+
+Token 10065:
+  0xf0233 -> cache_set_8 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0114 -> cache_set_4 (token_to_piece)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf0355 -> cache_set_13 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c6 -> cache_set_7 (token_to_piece)
+  0xf01c9 -> cache_set_7 (token_to_piece)
+
+Token 10066:
+  0x110800 -> cache_set_32 (token_to_piece)
+  0x110c0f -> cache_set_48 (token_to_piece)
+  0x110c5c -> cache_set_49 (token_to_piece)
+  0x10e697 -> cache_set_26 (llama_vocab)
+  0x10e4ac -> cache_set_18 (llama_vocab)
+  0x1108b2 -> cache_set_34 (token_to_piece)
+  0x1108b5 -> cache_set_34 (token_to_piece)
+  0x1108b7 -> cache_set_34 (token_to_piece)
+  0x1108dc -> cache_set_35 (token_to_piece)
+  0x11091f -> cache_set_36 (token_to_piece)
+  0x10e52c -> cache_set_20 (llama_vocab)
+  0x1107d3 -> cache_set_31 (token_to_piece)
+
+Token 10067:
+  0xeae5e -> cache_set_57 (token_to_piece)
+  0xeaa63 -> cache_set_41 (token_to_piece)
+  0xeac9f -> cache_set_50 (token_to_piece)
+  0xeaf03 -> cache_set_60 (token_to_piece)
+  0xeaf08 -> cache_set_60 (token_to_piece)
+  0xeab0f -> cache_set_44 (token_to_piece)
+  0xeab11 -> cache_set_44 (token_to_piece)
+  0xeab13 -> cache_set_44 (token_to_piece)
+  0xeab15 -> cache_set_44 (token_to_piece)
+  0xeab7d -> cache_set_45 (token_to_piece)
+  0x-25462 -> cache_set_46 (token_to_piece)
+
+Token 10068:
+  0xfe820 -> cache_set_32 (token_to_piece)
+  0xfe431 -> cache_set_16 (token_to_piece)
+  0xfe452 -> cache_set_17 (token_to_piece)
+  0xfe456 -> cache_set_17 (token_to_piece)
+  0xfe45c -> cache_set_17 (token_to_piece)
+  0xfeea1 -> cache_set_58 (token_to_piece)
+  0xfc0cd -> cache_set_3 (llama_vocab)
+  0xfe3a6 -> cache_set_14 (token_to_piece)
+  0xfe3b7 -> cache_set_14 (token_to_piece)
+
+Token 10069:
+  0xeaa85 -> cache_set_42 (token_to_piece)
+  0xeaeb2 -> cache_set_58 (token_to_piece)
+  0xeaec1 -> cache_set_59 (token_to_piece)
+  0xeaf0e -> cache_set_60 (token_to_piece)
+  0xeaf31 -> cache_set_60 (token_to_piece)
+  0xe8949 -> cache_set_37 (llama_vocab)
+  0xe875e -> cache_set_29 (llama_vocab)
+  0xeab69 -> cache_set_45 (token_to_piece)
+  0xeab95 -> cache_set_46 (token_to_piece)
+  0xeabd1 -> cache_set_47 (token_to_piece)
+
+Token 10070:
+  0xeae2a -> cache_set_56 (token_to_piece)
+  0xeb038 -> cache_set_0 (token_to_piece)
+  0xe8a73 -> cache_set_41 (llama_vocab)
+  0xeac74 -> cache_set_49 (token_to_piece)
+  0xe8a7b -> cache_set_41 (llama_vocab)
+  0xe8888 -> cache_set_34 (llama_vocab)
+  0xeac8e -> cache_set_50 (token_to_piece)
+  0xeac91 -> cache_set_50 (token_to_piece)
+  0xeacbf -> cache_set_50 (token_to_piece)
+  0xeb6dc -> cache_set_27 (token_to_piece)
+  0xeacfb -> cache_set_51 (token_to_piece)
+  0xeabe1 -> cache_set_47 (token_to_piece)
+  0xeabf2 -> cache_set_47 (token_to_piece)
+
+Token 10071:
+  0xeac29 -> cache_set_48 (token_to_piece)
+  0x-253b6 -> cache_set_49 (token_to_piece)
+  0xeaadd -> cache_set_43 (token_to_piece)
+  0xeab0f -> cache_set_44 (token_to_piece)
+  0xeaf66 -> cache_set_61 (token_to_piece)
+  0xeab9a -> cache_set_46 (token_to_piece)
+  0xe87b6 -> cache_set_30 (llama_vocab)
+  0xeabbc -> cache_set_46 (token_to_piece)
+  0xeabbd -> cache_set_46 (token_to_piece)
+  0xeabc3 -> cache_set_47 (token_to_piece)
+  0xeabe6 -> cache_set_47 (token_to_piece)
+
+Token 10072:
+  0x110c00 -> cache_set_48 (token_to_piece)
+  0x110805 -> cache_set_32 (token_to_piece)
+  0x110a41 -> cache_set_41 (token_to_piece)
+  0x110c7f -> cache_set_49 (token_to_piece)
+  0x110898 -> cache_set_34 (token_to_piece)
+  0x1108b5 -> cache_set_34 (token_to_piece)
+  0x1108bb -> cache_set_34 (token_to_piece)
+
+Token 10073:
+  0x110883 -> cache_set_34 (token_to_piece)
+  0x1108b5 -> cache_set_34 (token_to_piece)
+  0x110afe -> cache_set_43 (token_to_piece)
+  0x110d2f -> cache_set_52 (token_to_piece)
+  0x10e747 -> cache_set_29 (llama_vocab)
+  0x110948 -> cache_set_37 (token_to_piece)
+  0x10e74f -> cache_set_29 (llama_vocab)
+  0x110d55 -> cache_set_53 (token_to_piece)
+  0x110d5a -> cache_set_53 (token_to_piece)
+  0x10e55c -> cache_set_21 (llama_vocab)
+  0x110963 -> cache_set_37 (token_to_piece)
+  0x110965 -> cache_set_37 (token_to_piece)
+  0x110967 -> cache_set_37 (token_to_piece)
+  0x1109cf -> cache_set_39 (token_to_piece)
+  0x10e5dc -> cache_set_23 (llama_vocab)
+
+Token 10074:
+  0xeaa47 -> cache_set_41 (token_to_piece)
+  0x-2518c -> cache_set_57 (token_to_piece)
+  0xeaa74 -> cache_set_41 (token_to_piece)
+  0xeaa79 -> cache_set_41 (token_to_piece)
+  0xeacb5 -> cache_set_50 (token_to_piece)
+  0xeaef3 -> cache_set_59 (token_to_piece)
+  0xe890b -> cache_set_36 (llama_vocab)
+  0xeab0c -> cache_set_44 (token_to_piece)
+  0xe8720 -> cache_set_28 (llama_vocab)
+  0xeab26 -> cache_set_44 (token_to_piece)
+  0xeab29 -> cache_set_44 (token_to_piece)
+  0xeab2b -> cache_set_44 (token_to_piece)
+  0xeab2d -> cache_set_44 (token_to_piece)
+  0xe87a0 -> cache_set_30 (llama_vocab)
+  0x-2544c -> cache_set_46 (token_to_piece)
+
+Token 10075:
+  0xa9817 -> cache_set_32 (token_to_piece)
+  0xa9c31 -> cache_set_48 (token_to_piece)
+  0xa7433 -> cache_set_16 (llama_vocab)
+  0xa9838 -> cache_set_32 (token_to_piece)
+  0xa983a -> cache_set_32 (token_to_piece)
+  0xa983e -> cache_set_32 (token_to_piece)
+  0xa9840 -> cache_set_33 (token_to_piece)
+  0xa9863 -> cache_set_33 (token_to_piece)
+  0xa986a -> cache_set_33 (token_to_piece)
+  0xa74b3 -> cache_set_18 (llama_vocab)
+  0xa9787 -> cache_set_30 (token_to_piece)
+  0xa978c -> cache_set_30 (token_to_piece)
+  0xa979d -> cache_set_30 (token_to_piece)
+  0xa9be3 -> cache_set_47 (token_to_piece)
+
+Token 10076:
+  0xfe429 -> cache_set_16 (token_to_piece)
+  0xfc2c0 -> cache_set_11 (llama_vocab)
+  0xfc2c8 -> cache_set_11 (llama_vocab)
+  0xfc0d5 -> cache_set_3 (llama_vocab)
+  0xfe4da -> cache_set_19 (token_to_piece)
+  0xfe4db -> cache_set_19 (token_to_piece)
+  0xfe4dc -> cache_set_19 (token_to_piece)
+  0xfe4de -> cache_set_19 (token_to_piece)
+  0xfe4e0 -> cache_set_19 (token_to_piece)
+  0xfe50c -> cache_set_20 (token_to_piece)
+  0xfe548 -> cache_set_21 (token_to_piece)
+  0xfc155 -> cache_set_5 (llama_vocab)
+  0x-11a97 -> cache_set_21 (token_to_piece)
+  0xfe3fc -> cache_set_15 (token_to_piece)
+
+Token 10077:
+  0xeac33 -> cache_set_48 (token_to_piece)
+  0xe8a3a -> cache_set_40 (llama_vocab)
+  0xe8847 -> cache_set_33 (llama_vocab)
+  0xeac4c -> cache_set_49 (token_to_piece)
+  0xeac4e -> cache_set_49 (token_to_piece)
+  0xeac52 -> cache_set_49 (token_to_piece)
+  0xeac56 -> cache_set_49 (token_to_piece)
+  0xeacba -> cache_set_50 (token_to_piece)
+  0xe88c7 -> cache_set_35 (llama_vocab)
+  0xeaf9b -> cache_set_62 (token_to_piece)
+  0xeab9b -> cache_set_46 (token_to_piece)
+  0xeaba0 -> cache_set_46 (token_to_piece)
+  0xeade9 -> cache_set_55 (token_to_piece)
+
+Token 10078:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0xf0114 -> cache_set_4 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xf05be -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01cb -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+
+Token 10079:
+  0x-261fb -> cache_set_56 (token_to_piece)
+  0xe9a0a -> cache_set_40 (token_to_piece)
+  0xe9e61 -> cache_set_57 (token_to_piece)
+  0xe9a95 -> cache_set_42 (token_to_piece)
+  0xe78a4 -> cache_set_34 (llama_vocab)
+  0xe9eaf -> cache_set_58 (token_to_piece)
+  0xe76b1 -> cache_set_26 (llama_vocab)
+  0xe9ab7 -> cache_set_42 (token_to_piece)
+  0xe9ab8 -> cache_set_42 (token_to_piece)
+  0xe9aba -> cache_set_42 (token_to_piece)
+  0xe9abe -> cache_set_42 (token_to_piece)
+  0xe9b24 -> cache_set_44 (token_to_piece)
+  0xe7731 -> cache_set_28 (llama_vocab)
+  0x-264bb -> cache_set_45 (token_to_piece)
+
+Token 10080:
+  0xeacb9 -> cache_set_50 (token_to_piece)
+  0xeaccf -> cache_set_51 (token_to_piece)
+  0xeb115 -> cache_set_4 (token_to_piece)
+  0xeb138 -> cache_set_4 (token_to_piece)
+  0xead49 -> cache_set_53 (token_to_piece)
+  0xead51 -> cache_set_53 (token_to_piece)
+  0xe8b58 -> cache_set_45 (llama_vocab)
+  0xe8965 -> cache_set_37 (llama_vocab)
+  0xead6b -> cache_set_53 (token_to_piece)
+  0xead72 -> cache_set_53 (token_to_piece)
+  0xead95 -> cache_set_54 (token_to_piece)
+
+Token 10081:
+  0x10e61e -> cache_set_24 (token_to_piece)
+  0x10e460 -> cache_set_17 (token_to_piece)
+  0x10e468 -> cache_set_17 (token_to_piece)
+  0x10e481 -> cache_set_18 (token_to_piece)
+  0x10e482 -> cache_set_18 (token_to_piece)
+  0x10e487 -> cache_set_18 (token_to_piece)
+  0x10e489 -> cache_set_18 (token_to_piece)
+  0x10e4b3 -> cache_set_18 (token_to_piece)
+  0x10c0fc -> cache_set_3 (llama_vocab)
+  0x-1af0 -> cache_set_20 (token_to_piece)
+  0x10e3d0 -> cache_set_15 (token_to_piece)
+
+Token 10082:
+  0x85427 -> cache_set_16 (llama_vocab)
+  0x876ce -> cache_set_27 (token_to_piece)
+  0x87b57 -> cache_set_45 (token_to_piece)
+  0x87b7a -> cache_set_45 (token_to_piece)
+  0x87793 -> cache_set_30 (token_to_piece)
+  0x87ba5 -> cache_set_46 (token_to_piece)
+  0x853a7 -> cache_set_14 (llama_vocab)
+  0x877ad -> cache_set_30 (token_to_piece)
+  0x877b0 -> cache_set_30 (token_to_piece)
+  0x877b4 -> cache_set_30 (token_to_piece)
+  0x877d7 -> cache_set_31 (token_to_piece)
+
+Token 10083:
+  0xa98f1 -> cache_set_35 (token_to_piece)
+  0xa98f6 -> cache_set_35 (token_to_piece)
+  0xa9b3f -> cache_set_44 (token_to_piece)
+  0xa7788 -> cache_set_30 (llama_vocab)
+  0xa759d -> cache_set_22 (llama_vocab)
+
+Token 10084:
+  0xeaa9e -> cache_set_42 (token_to_piece)
+  0xeaecb -> cache_set_59 (token_to_piece)
+  0xeaad0 -> cache_set_43 (token_to_piece)
+  0xeaf4a -> cache_set_61 (token_to_piece)
+  0xeab5b -> cache_set_45 (token_to_piece)
+  0xe8777 -> cache_set_29 (llama_vocab)
+  0xeab7e -> cache_set_45 (token_to_piece)
+  0xeaba7 -> cache_set_46 (token_to_piece)
+  0xe87f7 -> cache_set_31 (llama_vocab)
+
+Token 10085:
+  0xa9a0a -> cache_set_40 (token_to_piece)
+  0xa7617 -> cache_set_24 (llama_vocab)
+  0x-665d5 -> cache_set_40 (token_to_piece)
+  0xa9ceb -> cache_set_51 (token_to_piece)
+  0xa9cfa -> cache_set_51 (token_to_piece)
+  0xa9b2c -> cache_set_44 (token_to_piece)
+  0xa9d47 -> cache_set_53 (token_to_piece)
+  0xa778a -> cache_set_30 (llama_vocab)
+  0xa9d95 -> cache_set_54 (token_to_piece)
+  0xa7597 -> cache_set_22 (llama_vocab)
+  0xa99a0 -> cache_set_38 (token_to_piece)
+  0xa99a2 -> cache_set_38 (token_to_piece)
+  0xa99ce -> cache_set_39 (token_to_piece)
+
+Token 10086:
+  0xa9819 -> cache_set_32 (token_to_piece)
+  0xa9c19 -> cache_set_48 (token_to_piece)
+  0xa982f -> cache_set_32 (token_to_piece)
+  0xa98a9 -> cache_set_34 (token_to_piece)
+  0xa9cc3 -> cache_set_51 (token_to_piece)
+  0xa74c5 -> cache_set_19 (llama_vocab)
+  0xa98d2 -> cache_set_35 (token_to_piece)
+  0xa98d4 -> cache_set_35 (token_to_piece)
+  0x-666a7 -> cache_set_37 (token_to_piece)
+
+Token 10087:
+  0x8782d -> cache_set_32 (token_to_piece)
+  0x-887b2 -> cache_set_33 (token_to_piece)
+  0x87713 -> cache_set_28 (token_to_piece)
+  0x8794f -> cache_set_37 (token_to_piece)
+  0x8795c -> cache_set_37 (token_to_piece)
+  0x87bb8 -> cache_set_46 (token_to_piece)
+  0x853ba -> cache_set_14 (llama_vocab)
+  0x877bf -> cache_set_30 (token_to_piece)
+  0x877c0 -> cache_set_31 (token_to_piece)
+  0x877c9 -> cache_set_31 (token_to_piece)
+  0x877ea -> cache_set_31 (token_to_piece)
+
+Token 10088:
+  0xfe825 -> cache_set_32 (token_to_piece)
+  0xfc23d -> cache_set_8 (llama_vocab)
+  0xfc052 -> cache_set_1 (llama_vocab)
+  0xfe457 -> cache_set_17 (token_to_piece)
+  0xfe458 -> cache_set_17 (token_to_piece)
+  0xfe45d -> cache_set_17 (token_to_piece)
+  0xfe482 -> cache_set_18 (token_to_piece)
+  0xfeea6 -> cache_set_58 (token_to_piece)
+  0xfc0d2 -> cache_set_3 (llama_vocab)
+  0x-11b1a -> cache_set_19 (token_to_piece)
+  0xfe3bc -> cache_set_14 (token_to_piece)
+
+Token 10089:
+  0xe9c02 -> cache_set_48 (token_to_piece)
+  0xe9e1d -> cache_set_56 (token_to_piece)
+  0xe7858 -> cache_set_33 (llama_vocab)
+  0xe9e6b -> cache_set_57 (token_to_piece)
+  0xe9a76 -> cache_set_41 (token_to_piece)
+  0xe99c1 -> cache_set_39 (token_to_piece)
+
+Token 10090:
+  0xeaa37 -> cache_set_40 (token_to_piece)
+  0xeaa64 -> cache_set_41 (token_to_piece)
+  0xeaca5 -> cache_set_50 (token_to_piece)
+  0xeacb2 -> cache_set_50 (token_to_piece)
+  0xeaf0e -> cache_set_60 (token_to_piece)
+  0xe8710 -> cache_set_28 (llama_vocab)
+  0xeab15 -> cache_set_44 (token_to_piece)
+  0xeab19 -> cache_set_44 (token_to_piece)
+  0xeab1f -> cache_set_44 (token_to_piece)
+  0xe8790 -> cache_set_30 (llama_vocab)
+
+Token 10091:
+  0xf012a -> cache_set_4 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xf0570 -> cache_set_21 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xf01cb -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+
+Token 10092:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0x-1faec -> cache_set_20 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xf0570 -> cache_set_21 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xf05b9 -> cache_set_22 (token_to_piece)
+  0xf01c6 -> cache_set_7 (token_to_piece)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10093:
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0355 -> cache_set_13 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xf05be -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c5 -> cache_set_7 (token_to_piece)
+  0xf01c6 -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10094:
+  0x8501c -> cache_set_0 (llama_vocab)
+  0x87627 -> cache_set_24 (token_to_piece)
+  0x87234 -> cache_set_8 (token_to_piece)
+  0x87238 -> cache_set_8 (token_to_piece)
+  0x87259 -> cache_set_9 (token_to_piece)
+  0x87150 -> cache_set_5 (token_to_piece)
+  0x87182 -> cache_set_6 (token_to_piece)
+  0x8758c -> cache_set_22 (token_to_piece)
+  0x873cb -> cache_set_15 (token_to_piece)
+
+Token 10095:
+  0xa990b -> cache_set_36 (token_to_piece)
+  0x-662f5 -> cache_set_52 (token_to_piece)
+  0xa9d1a -> cache_set_52 (token_to_piece)
+  0xa9b4c -> cache_set_45 (token_to_piece)
+  0xa9d67 -> cache_set_53 (token_to_piece)
+  0xa99a3 -> cache_set_38 (token_to_piece)
+  0xa75b7 -> cache_set_22 (llama_vocab)
+  0xa99c6 -> cache_set_39 (token_to_piece)
+  0xa99ee -> cache_set_39 (token_to_piece)
+
+Token 10096:
+  0x1106e6 -> cache_set_27 (token_to_piece)
+  0x11091e -> cache_set_36 (token_to_piece)
+  0x110760 -> cache_set_29 (token_to_piece)
+  0x110768 -> cache_set_29 (token_to_piece)
+  0x10e37c -> cache_set_13 (llama_vocab)
+  0x110782 -> cache_set_30 (token_to_piece)
+  0x110785 -> cache_set_30 (token_to_piece)
+  0x110787 -> cache_set_30 (token_to_piece)
+  0x1107ef -> cache_set_31 (token_to_piece)
+  0x10e3fc -> cache_set_15 (llama_vocab)
+
+Token 10097:
+  0x112aff -> cache_set_43 (token_to_piece)
+  0x11051f -> cache_set_20 (llama_vocab)
+  0x11032c -> cache_set_12 (llama_vocab)
+  0x112731 -> cache_set_28 (token_to_piece)
+  0x112735 -> cache_set_28 (token_to_piece)
+  0x113180 -> cache_set_6 (token_to_piece)
+  0x1103ac -> cache_set_14 (llama_vocab)
+  0x27c0 -> cache_set_31 (token_to_piece)
+
+Token 10098:
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0114 -> cache_set_4 (token_to_piece)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xf05b9 -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c9 -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f7 -> cache_set_7 (token_to_piece)
+
+Token 10099:
+  0xe8801 -> cache_set_32 (llama_vocab)
+  0xeac06 -> cache_set_48 (token_to_piece)
+  0xeac0a -> cache_set_48 (token_to_piece)
+  0xeac0c -> cache_set_48 (token_to_piece)
+  0xeac10 -> cache_set_48 (token_to_piece)
+  0xeac31 -> cache_set_48 (token_to_piece)
+  0xeb655 -> cache_set_25 (token_to_piece)
+  0xeac74 -> cache_set_49 (token_to_piece)
+  0xe8881 -> cache_set_34 (llama_vocab)
+  0xeab55 -> cache_set_45 (token_to_piece)
+  0xeaf64 -> cache_set_61 (token_to_piece)
+  0xeada3 -> cache_set_54 (token_to_piece)
+
+Token 10100:
+  0x85458 -> cache_set_17 (llama_vocab)
+  0x-88794 -> cache_set_33 (token_to_piece)
+  0x876ff -> cache_set_27 (token_to_piece)
+  0x8772c -> cache_set_28 (token_to_piece)
+  0x8796d -> cache_set_37 (token_to_piece)
+  0x877bc -> cache_set_30 (token_to_piece)
+  0x877de -> cache_set_31 (token_to_piece)
+  0x877df -> cache_set_31 (token_to_piece)
+  0x877e3 -> cache_set_31 (token_to_piece)
+
+Token 10101:
+  0x480 -> cache_set_18 (token_to_piece)
+  0x110480 -> cache_set_18 (token_to_piece)
+  0x11048f -> cache_set_18 (token_to_piece)
+  0x110110 -> cache_set_4 (token_to_piece)
+  0x10df17 -> cache_set_60 (llama_vocab)
+  0x10df1f -> cache_set_60 (llama_vocab)
+  0x11052a -> cache_set_20 (token_to_piece)
+  0x110163 -> cache_set_5 (token_to_piece)
+
+Token 10102:
+  0xeb042 -> cache_set_1 (token_to_piece)
+  0xeac76 -> cache_set_49 (token_to_piece)
+  0xe8a85 -> cache_set_42 (llama_vocab)
+  0xeb08b -> cache_set_2 (token_to_piece)
+  0xe8892 -> cache_set_34 (llama_vocab)
+  0xeac9d -> cache_set_50 (token_to_piece)
+  0xeac9f -> cache_set_50 (token_to_piece)
+  0xe8912 -> cache_set_36 (llama_vocab)
+  0x-252da -> cache_set_52 (token_to_piece)
+  0xeabeb -> cache_set_47 (token_to_piece)
+  0xeaff5 -> cache_set_63 (token_to_piece)
+
+Token 10103:
+  0xe9ea2 -> cache_set_58 (token_to_piece)
+  0x-25d31 -> cache_set_11 (token_to_piece)
+  0xea110 -> cache_set_4 (token_to_piece)
+  0xe9f67 -> cache_set_61 (token_to_piece)
+  0xe7d6e -> cache_set_53 (llama_vocab)
+  0xea374 -> cache_set_13 (token_to_piece)
+  0xe7b7b -> cache_set_45 (llama_vocab)
+  0xe9f82 -> cache_set_62 (token_to_piece)
+  0xe9f88 -> cache_set_62 (token_to_piece)
+  0xe9f8a -> cache_set_62 (token_to_piece)
+  0xea9cf -> cache_set_39 (token_to_piece)
+  0xe7bfb -> cache_set_47 (llama_vocab)
+
+Token 10104:
+  0xeaa64 -> cache_set_41 (token_to_piece)
+  0x-2519c -> cache_set_57 (token_to_piece)
+  0xeae73 -> cache_set_57 (token_to_piece)
+  0xeaa7a -> cache_set_41 (token_to_piece)
+  0xeaca5 -> cache_set_50 (token_to_piece)
+  0xeacb2 -> cache_set_50 (token_to_piece)
+  0xeaec0 -> cache_set_59 (token_to_piece)
+  0xeaaf4 -> cache_set_43 (token_to_piece)
+  0xe8903 -> cache_set_36 (llama_vocab)
+  0xeab16 -> cache_set_44 (token_to_piece)
+  0xe8790 -> cache_set_30 (llama_vocab)
+  0x-2545c -> cache_set_46 (token_to_piece)
+
+Token 10105:
+  0xfc04d -> cache_set_1 (llama_vocab)
+  0xfe453 -> cache_set_17 (token_to_piece)
+  0xfe454 -> cache_set_17 (token_to_piece)
+  0xfe456 -> cache_set_17 (token_to_piece)
+  0xfe484 -> cache_set_18 (token_to_piece)
+  0xfe4c0 -> cache_set_19 (token_to_piece)
+  0xfc0cd -> cache_set_3 (llama_vocab)
+  0x-11b1f -> cache_set_19 (token_to_piece)
+  0xfe5ef -> cache_set_23 (token_to_piece)
+  0xfe7fd -> cache_set_31 (token_to_piece)
+
+Token 10106:
+  0xe9c03 -> cache_set_48 (token_to_piece)
+  0xe9e11 -> cache_set_56 (token_to_piece)
+  0xe9a45 -> cache_set_41 (token_to_piece)
+  0xe9a68 -> cache_set_41 (token_to_piece)
+  0xe9a91 -> cache_set_42 (token_to_piece)
+  0xe9ad4 -> cache_set_43 (token_to_piece)
+  0xe76e1 -> cache_set_27 (llama_vocab)
+  0x-2650b -> cache_set_43 (token_to_piece)
+  0xe9db5 -> cache_set_54 (token_to_piece)
+  0xe99b5 -> cache_set_38 (token_to_piece)
+  0xe9dc4 -> cache_set_55 (token_to_piece)
+
+Token 10107:
+  0xeae62 -> cache_set_57 (token_to_piece)
+  0xeae71 -> cache_set_57 (token_to_piece)
+  0xeaa78 -> cache_set_41 (token_to_piece)
+  0xeaafa -> cache_set_43 (token_to_piece)
+  0xeaf07 -> cache_set_60 (token_to_piece)
+  0xeaf0c -> cache_set_60 (token_to_piece)
+  0xe870e -> cache_set_28 (llama_vocab)
+  0xeab17 -> cache_set_44 (token_to_piece)
+  0xeab19 -> cache_set_44 (token_to_piece)
+  0xeab1b -> cache_set_44 (token_to_piece)
+  0xeab1d -> cache_set_44 (token_to_piece)
+  0xeab81 -> cache_set_46 (token_to_piece)
+  0xe878e -> cache_set_30 (llama_vocab)
+  0x-2545e -> cache_set_46 (token_to_piece)
+
+Token 10108:
+  0x110053 -> cache_set_1 (token_to_piece)
+  0x1102ce -> cache_set_11 (token_to_piece)
+  0x1104ff -> cache_set_19 (token_to_piece)
+  0x110525 -> cache_set_20 (token_to_piece)
+  0x110135 -> cache_set_4 (token_to_piece)
+  0x110137 -> cache_set_4 (token_to_piece)
+  0x110163 -> cache_set_5 (token_to_piece)
+  0x10ddac -> cache_set_54 (llama_vocab)
+
+Token 10109:
+  0x87642 -> cache_set_25 (token_to_piece)
+  0x87a7e -> cache_set_41 (token_to_piece)
+  0x87685 -> cache_set_26 (token_to_piece)
+  0x878b0 -> cache_set_34 (token_to_piece)
+  0x878bd -> cache_set_34 (token_to_piece)
+  0x876ff -> cache_set_27 (token_to_piece)
+  0x87b14 -> cache_set_44 (token_to_piece)
+  0x87728 -> cache_set_28 (token_to_piece)
+  0x8772a -> cache_set_28 (token_to_piece)
+  0x87752 -> cache_set_29 (token_to_piece)
+  0x8539b -> cache_set_14 (llama_vocab)
+
+Token 10110:
+  0xa7c21 -> cache_set_48 (token_to_piece)
+  0xa7e4c -> cache_set_57 (token_to_piece)
+  0xa808a -> cache_set_2 (token_to_piece)
+  0xa7ca3 -> cache_set_50 (token_to_piece)
+  0xa7cc0 -> cache_set_51 (token_to_piece)
+  0xa7d2a -> cache_set_52 (token_to_piece)
+
+Token 10111:
+  0xa7c28 -> cache_set_48 (token_to_piece)
+  0xa583c -> cache_set_32 (llama_vocab)
+  0xa7c42 -> cache_set_49 (token_to_piece)
+  0xa7c49 -> cache_set_49 (token_to_piece)
+  0xa7c6c -> cache_set_49 (token_to_piece)
+  0xa7c73 -> cache_set_49 (token_to_piece)
+  0xa8690 -> cache_set_26 (token_to_piece)
+  0xa58bc -> cache_set_34 (llama_vocab)
+  0x-68330 -> cache_set_51 (token_to_piece)
+  0xa7f90 -> cache_set_62 (token_to_piece)
+  0x-68070 -> cache_set_62 (token_to_piece)
+  0xa7b95 -> cache_set_46 (token_to_piece)
+  0xa7ba6 -> cache_set_46 (token_to_piece)
+  0xa7dd1 -> cache_set_55 (token_to_piece)
+
+Token 10112:
+  0xede40 -> cache_set_57 (llama_vocab)
+  0x-1fdac -> cache_set_9 (token_to_piece)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xf05b9 -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c9 -> cache_set_7 (token_to_piece)
+  0xf01f7 -> cache_set_7 (token_to_piece)
+
+Token 10113:
+  0xeaa35 -> cache_set_40 (token_to_piece)
+  0x-2519e -> cache_set_57 (token_to_piece)
+  0xeaebe -> cache_set_58 (token_to_piece)
+  0xeaafa -> cache_set_43 (token_to_piece)
+  0xeaf07 -> cache_set_60 (token_to_piece)
+  0xeab15 -> cache_set_44 (token_to_piece)
+  0xeab17 -> cache_set_44 (token_to_piece)
+  0xeab3e -> cache_set_44 (token_to_piece)
+  0xeb562 -> cache_set_21 (token_to_piece)
+
+Token 10114:
+  0xfe896 -> cache_set_34 (token_to_piece)
+  0xfc098 -> cache_set_2 (llama_vocab)
+  0xfe49d -> cache_set_18 (token_to_piece)
+  0xfe4a5 -> cache_set_18 (token_to_piece)
+  0xfe4c8 -> cache_set_19 (token_to_piece)
+  0xfe3bf -> cache_set_14 (token_to_piece)
+  0xfe3ec -> cache_set_15 (token_to_piece)
+
+Token 10115:
+  0x-1fdac -> cache_set_9 (token_to_piece)
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xedfb3 -> cache_set_62 (llama_vocab)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10116:
+  0x-88bfc -> cache_set_16 (token_to_piece)
+  0x-8893c -> cache_set_27 (token_to_piece)
+  0x85163 -> cache_set_5 (llama_vocab)
+  0x84f70 -> cache_set_61 (llama_vocab)
+  0x87375 -> cache_set_13 (token_to_piece)
+  0x87377 -> cache_set_13 (token_to_piece)
+  0x87379 -> cache_set_13 (token_to_piece)
+  0x873a0 -> cache_set_14 (token_to_piece)
+  0x873a7 -> cache_set_14 (token_to_piece)
+  0x873e3 -> cache_set_15 (token_to_piece)
+  0x84ff0 -> cache_set_63 (llama_vocab)
+
+Token 10117:
+  0x-24f3a -> cache_set_3 (token_to_piece)
+  0xeb0c6 -> cache_set_3 (token_to_piece)
+  0xeaf14 -> cache_set_60 (token_to_piece)
+  0xeaf1a -> cache_set_60 (token_to_piece)
+  0xeb122 -> cache_set_4 (token_to_piece)
+  0xead56 -> cache_set_53 (token_to_piece)
+  0xe8972 -> cache_set_37 (llama_vocab)
+  0xead78 -> cache_set_53 (token_to_piece)
+  0xead79 -> cache_set_53 (token_to_piece)
+  0xead81 -> cache_set_54 (token_to_piece)
+  0xeada9 -> cache_set_54 (token_to_piece)
+  0xeb7c6 -> cache_set_31 (token_to_piece)
+  0xe89f2 -> cache_set_39 (llama_vocab)
+
+Token 10118:
+  0x85440 -> cache_set_17 (llama_vocab)
+  0x876e7 -> cache_set_27 (token_to_piece)
+  0x87714 -> cache_set_28 (token_to_piece)
+  0x87719 -> cache_set_28 (token_to_piece)
+  0x87b23 -> cache_set_44 (token_to_piece)
+  0x87955 -> cache_set_37 (token_to_piece)
+  0x87b93 -> cache_set_46 (token_to_piece)
+  0x87bbe -> cache_set_46 (token_to_piece)
+  0x853c0 -> cache_set_15 (llama_vocab)
+  0x877cb -> cache_set_31 (token_to_piece)
+  0x877f0 -> cache_set_31 (token_to_piece)
+
+Token 10119:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0xf0514 -> cache_set_20 (token_to_piece)
+  0x-1faec -> cache_set_20 (token_to_piece)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf05b9 -> cache_set_22 (token_to_piece)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c9 -> cache_set_7 (token_to_piece)
+  0xf01c7 -> cache_set_7 (token_to_piece)
+  0xf01cb -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+
+Token 10120:
+  0xa7c10 -> cache_set_48 (token_to_piece)
+  0xa801a -> cache_set_0 (token_to_piece)
+  0xa7c21 -> cache_set_48 (token_to_piece)
+  0xa7e4c -> cache_set_57 (token_to_piece)
+  0xa8067 -> cache_set_1 (token_to_piece)
+  0xa5aa2 -> cache_set_42 (llama_vocab)
+  0xa5aaa -> cache_set_42 (llama_vocab)
+  0xa58b7 -> cache_set_34 (llama_vocab)
+  0xa7cbc -> cache_set_50 (token_to_piece)
+  0xa870b -> cache_set_28 (token_to_piece)
+
+Token 10121:
+  0x87619 -> cache_set_24 (token_to_piece)
+  0x8769b -> cache_set_26 (token_to_piece)
+  0x87aa8 -> cache_set_42 (token_to_piece)
+  0x87aad -> cache_set_42 (token_to_piece)
+  0x852af -> cache_set_10 (llama_vocab)
+  0x876b5 -> cache_set_26 (token_to_piece)
+  0x876bc -> cache_set_26 (token_to_piece)
+  0x876e6 -> cache_set_27 (token_to_piece)
+  0x88103 -> cache_set_4 (token_to_piece)
+  0x8532f -> cache_set_12 (llama_vocab)
+
+Token 10122:
+  0xe9c22 -> cache_set_48 (token_to_piece)
+  0xe9a64 -> cache_set_41 (token_to_piece)
+  0xe9e79 -> cache_set_57 (token_to_piece)
+  0xe9e7e -> cache_set_57 (token_to_piece)
+  0xe9a85 -> cache_set_42 (token_to_piece)
+  0xe9a87 -> cache_set_42 (token_to_piece)
+  0xe9a8b -> cache_set_42 (token_to_piece)
+  0xe9a8d -> cache_set_42 (token_to_piece)
+  0xe7700 -> cache_set_28 (llama_vocab)
+  0x-2622c -> cache_set_55 (token_to_piece)
+  0xe9de3 -> cache_set_55 (token_to_piece)
+
+Token 10123:
+  0xe9c0f -> cache_set_48 (token_to_piece)
+  0xe9a51 -> cache_set_41 (token_to_piece)
+  0xe766d -> cache_set_25 (llama_vocab)
+  0xe9a72 -> cache_set_41 (token_to_piece)
+  0xe9a73 -> cache_set_41 (token_to_piece)
+  0xe9a74 -> cache_set_41 (token_to_piece)
+  0xe9a76 -> cache_set_41 (token_to_piece)
+  0xe9a78 -> cache_set_41 (token_to_piece)
+  0xe9a9d -> cache_set_42 (token_to_piece)
+  0xe76ed -> cache_set_27 (llama_vocab)
+  0x-2623f -> cache_set_55 (token_to_piece)
+  0xe99c6 -> cache_set_39 (token_to_piece)
+  0xe99d7 -> cache_set_39 (token_to_piece)
+
+Token 10124:
+  0x112a80 -> cache_set_42 (token_to_piece)
+  0x112685 -> cache_set_26 (token_to_piece)
+  0x1128c1 -> cache_set_35 (token_to_piece)
+  0x112adc -> cache_set_43 (token_to_piece)
+  0x112aff -> cache_set_43 (token_to_piece)
+  0x112718 -> cache_set_28 (token_to_piece)
+  0x112731 -> cache_set_28 (token_to_piece)
+  0x11275c -> cache_set_29 (token_to_piece)
+  0x1103ac -> cache_set_14 (llama_vocab)
+  0x27c0 -> cache_set_31 (token_to_piece)
+
+Token 10125:
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0514 -> cache_set_20 (token_to_piece)
+  0x-1faec -> cache_set_20 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01f7 -> cache_set_7 (token_to_piece)
+
+Token 10126:
+  0xfe625 -> cache_set_24 (token_to_piece)
+  0xfe840 -> cache_set_33 (token_to_piece)
+  0xfe474 -> cache_set_17 (token_to_piece)
+  0xfc283 -> cache_set_10 (llama_vocab)
+  0xfe88e -> cache_set_34 (token_to_piece)
+  0xfe497 -> cache_set_18 (token_to_piece)
+  0xfe4c0 -> cache_set_19 (token_to_piece)
+  0xfe4c7 -> cache_set_19 (token_to_piece)
+  0x-11adc -> cache_set_20 (token_to_piece)
+  0xfe3b7 -> cache_set_14 (token_to_piece)
+  0xfe7e4 -> cache_set_31 (token_to_piece)
+
+Token 10127:
+  0xfe625 -> cache_set_24 (token_to_piece)
+  0xfe863 -> cache_set_33 (token_to_piece)
+  0xfe474 -> cache_set_17 (token_to_piece)
+  0xfe889 -> cache_set_34 (token_to_piece)
+  0xfe499 -> cache_set_18 (token_to_piece)
+  0xfe49b -> cache_set_18 (token_to_piece)
+  0xfe49d -> cache_set_18 (token_to_piece)
+  0xfe49f -> cache_set_18 (token_to_piece)
+  0xfe4c7 -> cache_set_19 (token_to_piece)
+  0xfeee4 -> cache_set_59 (token_to_piece)
+  0xfc110 -> cache_set_4 (llama_vocab)
+  0xfe3b7 -> cache_set_14 (token_to_piece)
+  0xfe3e4 -> cache_set_15 (token_to_piece)
+  0xfe7e4 -> cache_set_31 (token_to_piece)
+  0xfe3e9 -> cache_set_15 (token_to_piece)
+  0xfe7f3 -> cache_set_31 (token_to_piece)
+
+Token 10128:
+  0xfc25e -> cache_set_9 (llama_vocab)
+  0xfe871 -> cache_set_33 (token_to_piece)
+  0xfeec7 -> cache_set_59 (token_to_piece)
+  0xfc0f3 -> cache_set_3 (llama_vocab)
+  0xfe39a -> cache_set_14 (token_to_piece)
+  0xfe3c7 -> cache_set_15 (token_to_piece)

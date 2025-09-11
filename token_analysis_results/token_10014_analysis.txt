@@ -1,0 +1,22 @@
+Token 10014 Analysis
+==================================================
+
+Base address (with): 0x723f86f417d0
+Base address (without): 0x7386b7e8fdda
+Total offsets (with): 98
+Total offsets (without): 113
+Decode-only offsets: 97
+
+Cache Sets Accessed:
+  [4, 6, 7, 48, 55, 57, 62]
+
+Decode-Related Functions:
+  0xf0c14 -> cache_set_48 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)

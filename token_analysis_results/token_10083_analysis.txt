@@ -1,0 +1,18 @@
+Token 10083 Analysis
+==================================================
+
+Base address (with): 0x790d59c87ff3
+Base address (without): 0x79662fd8fd85
+Total offsets (with): 96
+Total offsets (without): 105
+Decode-only offsets: 95
+
+Cache Sets Accessed:
+  [22, 30, 35, 44]
+
+Decode-Related Functions:
+  0xa98f1 -> cache_set_35 (token_to_piece)
+  0xa98f6 -> cache_set_35 (token_to_piece)
+  0xa9b3f -> cache_set_44 (token_to_piece)
+  0xa7788 -> cache_set_30 (llama_vocab)
+  0xa759d -> cache_set_22 (llama_vocab)

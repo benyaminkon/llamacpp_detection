@@ -1,0 +1,24 @@
+Token 10126 Analysis
+==================================================
+
+Base address (with): 0x7e3b03833500
+Base address (without): 0x7a0d86eaa4f3
+Total offsets (with): 96
+Total offsets (without): 100
+Decode-only offsets: 95
+
+Cache Sets Accessed:
+  [10, 14, 17, 18, 19, 20, 24, 31, 33, 34]
+
+Decode-Related Functions:
+  0xfe625 -> cache_set_24 (token_to_piece)
+  0xfe840 -> cache_set_33 (token_to_piece)
+  0xfe474 -> cache_set_17 (token_to_piece)
+  0xfc283 -> cache_set_10 (llama_vocab)
+  0xfe88e -> cache_set_34 (token_to_piece)
+  0xfe497 -> cache_set_18 (token_to_piece)
+  0xfe4c0 -> cache_set_19 (token_to_piece)
+  0xfe4c7 -> cache_set_19 (token_to_piece)
+  0x-11adc -> cache_set_20 (token_to_piece)
+  0xfe3b7 -> cache_set_14 (token_to_piece)
+  0xfe7e4 -> cache_set_31 (token_to_piece)

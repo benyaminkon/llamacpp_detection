@@ -1,0 +1,24 @@
+Token 10005 Analysis
+==================================================
+
+Base address (with): 0x722fa3b247d0
+Base address (without): 0x79ddef37c563
+Total offsets (with): 102
+Total offsets (without): 95
+Decode-only offsets: 101
+
+Cache Sets Accessed:
+  [3, 6, 7, 13, 21, 55, 62]
+
+Decode-Related Functions:
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0xf0355 -> cache_set_13 (token_to_piece)
+  0xf0570 -> cache_set_21 (token_to_piece)
+  0xedfab -> cache_set_62 (llama_vocab)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xedfb3 -> cache_set_62 (llama_vocab)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01c7 -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)
+  0xf01f7 -> cache_set_7 (token_to_piece)

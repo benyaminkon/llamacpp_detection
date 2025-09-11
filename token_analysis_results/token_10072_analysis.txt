@@ -1,0 +1,20 @@
+Token 10072 Analysis
+==================================================
+
+Base address (with): 0x7c830b9140e4
+Base address (without): 0x7021d2baa501
+Total offsets (with): 98
+Total offsets (without): 101
+Decode-only offsets: 97
+
+Cache Sets Accessed:
+  [32, 34, 41, 48, 49]
+
+Decode-Related Functions:
+  0x110c00 -> cache_set_48 (token_to_piece)
+  0x110805 -> cache_set_32 (token_to_piece)
+  0x110a41 -> cache_set_41 (token_to_piece)
+  0x110c7f -> cache_set_49 (token_to_piece)
+  0x110898 -> cache_set_34 (token_to_piece)
+  0x1108b5 -> cache_set_34 (token_to_piece)
+  0x1108bb -> cache_set_34 (token_to_piece)

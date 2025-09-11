@@ -1,0 +1,24 @@
+Token 10116 Analysis
+==================================================
+
+Base address (with): 0x74a5827f3620
+Base address (without): 0x7bd276746c11
+Total offsets (with): 102
+Total offsets (without): 99
+Decode-only offsets: 101
+
+Cache Sets Accessed:
+  [5, 13, 14, 15, 16, 27, 61, 63]
+
+Decode-Related Functions:
+  0x-88bfc -> cache_set_16 (token_to_piece)
+  0x-8893c -> cache_set_27 (token_to_piece)
+  0x85163 -> cache_set_5 (llama_vocab)
+  0x84f70 -> cache_set_61 (llama_vocab)
+  0x87375 -> cache_set_13 (token_to_piece)
+  0x87377 -> cache_set_13 (token_to_piece)
+  0x87379 -> cache_set_13 (token_to_piece)
+  0x873a0 -> cache_set_14 (token_to_piece)
+  0x873a7 -> cache_set_14 (token_to_piece)
+  0x873e3 -> cache_set_15 (token_to_piece)
+  0x84ff0 -> cache_set_63 (llama_vocab)

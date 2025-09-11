@@ -1,0 +1,27 @@
+Token 10111 Analysis
+==================================================
+
+Base address (with): 0x73746ee4bd54
+Base address (without): 0x7f8815c210e4
+Total offsets (with): 113
+Total offsets (without): 101
+Decode-only offsets: 112
+
+Cache Sets Accessed:
+  [26, 32, 34, 46, 48, 49, 51, 55, 62]
+
+Decode-Related Functions:
+  0xa7c28 -> cache_set_48 (token_to_piece)
+  0xa583c -> cache_set_32 (llama_vocab)
+  0xa7c42 -> cache_set_49 (token_to_piece)
+  0xa7c49 -> cache_set_49 (token_to_piece)
+  0xa7c6c -> cache_set_49 (token_to_piece)
+  0xa7c73 -> cache_set_49 (token_to_piece)
+  0xa8690 -> cache_set_26 (token_to_piece)
+  0xa58bc -> cache_set_34 (llama_vocab)
+  0x-68330 -> cache_set_51 (token_to_piece)
+  0xa7f90 -> cache_set_62 (token_to_piece)
+  0x-68070 -> cache_set_62 (token_to_piece)
+  0xa7b95 -> cache_set_46 (token_to_piece)
+  0xa7ba6 -> cache_set_46 (token_to_piece)
+  0xa7dd1 -> cache_set_55 (token_to_piece)

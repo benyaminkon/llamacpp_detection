@@ -1,0 +1,21 @@
+Token 10030 Analysis
+==================================================
+
+Base address (with): 0x7e983f7347d0
+Base address (without): 0x711e18ef5495
+Total offsets (with): 101
+Total offsets (without): 107
+Decode-only offsets: 100
+
+Cache Sets Accessed:
+  [7, 8, 20, 22, 57]
+
+Decode-Related Functions:
+  0xf0233 -> cache_set_8 (token_to_piece)
+  0xede40 -> cache_set_57 (llama_vocab)
+  0xf0514 -> cache_set_20 (token_to_piece)
+  0xf0593 -> cache_set_22 (token_to_piece)
+  0xf01c5 -> cache_set_7 (token_to_piece)
+  0xf01c6 -> cache_set_7 (token_to_piece)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)

@@ -1,0 +1,20 @@
+Token 10025 Analysis
+==================================================
+
+Base address (with): 0x74e084cd1088
+Base address (without): 0x7f6c5c28a7d0
+Total offsets (with): 92
+Total offsets (without): 113
+Decode-only offsets: 91
+
+Cache Sets Accessed:
+  [22, 33, 35, 36, 38]
+
+Decode-Related Functions:
+  0xa985c -> cache_set_33 (token_to_piece)
+  0xa98f4 -> cache_set_35 (token_to_piece)
+  0xa990d -> cache_set_36 (token_to_piece)
+  0xa9915 -> cache_set_36 (token_to_piece)
+  0xa993f -> cache_set_36 (token_to_piece)
+  0xa7588 -> cache_set_22 (llama_vocab)
+  0x-66664 -> cache_set_38 (token_to_piece)

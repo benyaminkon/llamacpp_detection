@@ -1,0 +1,22 @@
+Token 10100 Analysis
+==================================================
+
+Base address (with): 0x70ea192f31b8
+Base address (without): 0x78cb83889c3e
+Total offsets (with): 97
+Total offsets (without): 105
+Decode-only offsets: 96
+
+Cache Sets Accessed:
+  [17, 27, 28, 30, 31, 33, 37]
+
+Decode-Related Functions:
+  0x85458 -> cache_set_17 (llama_vocab)
+  0x-88794 -> cache_set_33 (token_to_piece)
+  0x876ff -> cache_set_27 (token_to_piece)
+  0x8772c -> cache_set_28 (token_to_piece)
+  0x8796d -> cache_set_37 (token_to_piece)
+  0x877bc -> cache_set_30 (token_to_piece)
+  0x877de -> cache_set_31 (token_to_piece)
+  0x877df -> cache_set_31 (token_to_piece)
+  0x877e3 -> cache_set_31 (token_to_piece)

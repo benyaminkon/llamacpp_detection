@@ -1,0 +1,21 @@
+Token 10004 Analysis
+==================================================
+
+Base address (with): 0x7ef694aaa1d0
+Base address (without): 0x77894157c518
+Total offsets (with): 91
+Total offsets (without): 114
+Decode-only offsets: 90
+
+Cache Sets Accessed:
+  [22, 30, 31, 37, 44]
+
+Decode-Related Functions:
+  0x87b14 -> cache_set_44 (token_to_piece)
+  0x-884ec -> cache_set_44 (token_to_piece)
+  0x87962 -> cache_set_37 (token_to_piece)
+  0x877a4 -> cache_set_30 (token_to_piece)
+  0x855b3 -> cache_set_22 (llama_vocab)
+  0x877c5 -> cache_set_31 (token_to_piece)
+  0x877c9 -> cache_set_31 (token_to_piece)
+  0x877cb -> cache_set_31 (token_to_piece)

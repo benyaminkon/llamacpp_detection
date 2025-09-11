@@ -1,0 +1,26 @@
+Token 10123 Analysis
+==================================================
+
+Base address (with): 0x7abc20247f23
+Base address (without): 0x7d65d537c4a0
+Total offsets (with): 114
+Total offsets (without): 118
+Decode-only offsets: 113
+
+Cache Sets Accessed:
+  [25, 27, 39, 41, 42, 48, 55]
+
+Decode-Related Functions:
+  0xe9c0f -> cache_set_48 (token_to_piece)
+  0xe9a51 -> cache_set_41 (token_to_piece)
+  0xe766d -> cache_set_25 (llama_vocab)
+  0xe9a72 -> cache_set_41 (token_to_piece)
+  0xe9a73 -> cache_set_41 (token_to_piece)
+  0xe9a74 -> cache_set_41 (token_to_piece)
+  0xe9a76 -> cache_set_41 (token_to_piece)
+  0xe9a78 -> cache_set_41 (token_to_piece)
+  0xe9a9d -> cache_set_42 (token_to_piece)
+  0xe76ed -> cache_set_27 (llama_vocab)
+  0x-2623f -> cache_set_55 (token_to_piece)
+  0xe99c6 -> cache_set_39 (token_to_piece)
+  0xe99d7 -> cache_set_39 (token_to_piece)

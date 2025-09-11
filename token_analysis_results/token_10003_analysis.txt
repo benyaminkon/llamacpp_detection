@@ -1,0 +1,23 @@
+Token 10003 Analysis
+==================================================
+
+Base address (with): 0x70e0d0d05c24
+Base address (without): 0x71a8b04d2f2a
+Total offsets (with): 86
+Total offsets (without): 97
+Decode-only offsets: 85
+
+Cache Sets Accessed:
+  [5, 37, 39, 45, 51, 53, 60]
+
+Decode-Related Functions:
+  0x10ecc0 -> cache_set_51 (token_to_piece)
+  0x10ef0e -> cache_set_60 (token_to_piece)
+  0x10ed50 -> cache_set_53 (token_to_piece)
+  0x10cb57 -> cache_set_45 (llama_vocab)
+  0x10ed58 -> cache_set_53 (token_to_piece)
+  0x10cb5f -> cache_set_45 (llama_vocab)
+  0x10f16a -> cache_set_5 (token_to_piece)
+  0x10c96c -> cache_set_37 (llama_vocab)
+  0x10ed73 -> cache_set_53 (token_to_piece)
+  0x10c9ec -> cache_set_39 (llama_vocab)

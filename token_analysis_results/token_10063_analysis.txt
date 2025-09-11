@@ -1,0 +1,24 @@
+Token 10063 Analysis
+==================================================
+
+Base address (with): 0x7f82db88fe19
+Base address (without): 0x7aada3439c0c
+Total offsets (with): 116
+Total offsets (without): 98
+Decode-only offsets: 115
+
+Cache Sets Accessed:
+  [23, 29, 31, 37, 45, 47, 48, 59, 61]
+
+Decode-Related Functions:
+  0x-253f5 -> cache_set_48 (token_to_piece)
+  0xeaecb -> cache_set_59 (token_to_piece)
+  0x-25135 -> cache_set_59 (token_to_piece)
+  0xeaf4a -> cache_set_61 (token_to_piece)
+  0xe896a -> cache_set_37 (llama_vocab)
+  0xe8777 -> cache_set_29 (llama_vocab)
+  0xeab7c -> cache_set_45 (token_to_piece)
+  0xeab7d -> cache_set_45 (token_to_piece)
+  0xeb5cb -> cache_set_23 (token_to_piece)
+  0xeabea -> cache_set_47 (token_to_piece)
+  0xe87f7 -> cache_set_31 (llama_vocab)

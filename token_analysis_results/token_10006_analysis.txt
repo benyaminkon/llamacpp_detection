@@ -1,0 +1,24 @@
+Token 10006 Analysis
+==================================================
+
+Base address (with): 0x76fd880d2cd9
+Base address (without): 0x7179671d10c2
+Total offsets (with): 96
+Total offsets (without): 111
+Decode-only offsets: 95
+
+Cache Sets Accessed:
+  [0, 1, 47, 48, 50, 51, 52, 53, 57]
+
+Decode-Related Functions:
+  0xa800b -> cache_set_0 (token_to_piece)
+  0xa7c10 -> cache_set_48 (token_to_piece)
+  0xa7c21 -> cache_set_48 (token_to_piece)
+  0xa7e4c -> cache_set_57 (token_to_piece)
+  0xa8067 -> cache_set_1 (token_to_piece)
+  0xa7cbd -> cache_set_50 (token_to_piece)
+  0xa7cc4 -> cache_set_51 (token_to_piece)
+  0xa7cc6 -> cache_set_51 (token_to_piece)
+  0xa7d2a -> cache_set_52 (token_to_piece)
+  0x-682b5 -> cache_set_53 (token_to_piece)
+  0xa7bde -> cache_set_47 (token_to_piece)

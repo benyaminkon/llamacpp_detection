@@ -1,0 +1,23 @@
+Token 10115 Analysis
+==================================================
+
+Base address (with): 0x76ac8dc417d0
+Base address (without): 0x7b4a91946e86
+Total offsets (with): 102
+Total offsets (without): 112
+Decode-only offsets: 101
+
+Cache Sets Accessed:
+  [3, 4, 7, 9, 13, 20, 55, 62]
+
+Decode-Related Functions:
+  0x-1fdac -> cache_set_9 (token_to_piece)
+  0xf00e7 -> cache_set_3 (token_to_piece)
+  0xf0119 -> cache_set_4 (token_to_piece)
+  0xf0523 -> cache_set_20 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xedfb3 -> cache_set_62 (llama_vocab)
+  0xeddc0 -> cache_set_55 (llama_vocab)
+  0xf01cd -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)
+  0xf01f0 -> cache_set_7 (token_to_piece)

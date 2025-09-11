@@ -1,0 +1,27 @@
+Token 10076 Analysis
+==================================================
+
+Base address (with): 0x77cd346f54bb
+Base address (without): 0x7086148210e4
+Total offsets (with): 103
+Total offsets (without): 104
+Decode-only offsets: 102
+
+Cache Sets Accessed:
+  [3, 5, 11, 15, 16, 19, 20, 21]
+
+Decode-Related Functions:
+  0xfe429 -> cache_set_16 (token_to_piece)
+  0xfc2c0 -> cache_set_11 (llama_vocab)
+  0xfc2c8 -> cache_set_11 (llama_vocab)
+  0xfc0d5 -> cache_set_3 (llama_vocab)
+  0xfe4da -> cache_set_19 (token_to_piece)
+  0xfe4db -> cache_set_19 (token_to_piece)
+  0xfe4dc -> cache_set_19 (token_to_piece)
+  0xfe4de -> cache_set_19 (token_to_piece)
+  0xfe4e0 -> cache_set_19 (token_to_piece)
+  0xfe50c -> cache_set_20 (token_to_piece)
+  0xfe548 -> cache_set_21 (token_to_piece)
+  0xfc155 -> cache_set_5 (llama_vocab)
+  0x-11a97 -> cache_set_21 (token_to_piece)
+  0xfe3fc -> cache_set_15 (token_to_piece)

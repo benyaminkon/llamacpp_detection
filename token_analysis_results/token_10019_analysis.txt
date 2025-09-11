@@ -1,0 +1,21 @@
+Token 10019 Analysis
+==================================================
+
+Base address (with): 0x70535287c518
+Base address (without): 0x73ff767037d0
+Total offsets (with): 88
+Total offsets (without): 94
+Decode-only offsets: 87
+
+Cache Sets Accessed:
+  [1, 9, 15, 17, 20]
+
+Decode-Related Functions:
+  0xfe45c -> cache_set_17 (token_to_piece)
+  0xfe464 -> cache_set_17 (token_to_piece)
+  0xfc26b -> cache_set_9 (llama_vocab)
+  0xfc078 -> cache_set_1 (llama_vocab)
+  0xfe47f -> cache_set_17 (token_to_piece)
+  0x-11af4 -> cache_set_20 (token_to_piece)
+  0xfe3cc -> cache_set_15 (token_to_piece)
+  0xfe3e2 -> cache_set_15 (token_to_piece)

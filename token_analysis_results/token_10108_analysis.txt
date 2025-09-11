@@ -1,0 +1,21 @@
+Token 10108 Analysis
+==================================================
+
+Base address (with): 0x71b74f314864
+Base address (without): 0x793e8b58fc1e
+Total offsets (with): 105
+Total offsets (without): 99
+Decode-only offsets: 104
+
+Cache Sets Accessed:
+  [1, 4, 5, 11, 19, 20, 54]
+
+Decode-Related Functions:
+  0x110053 -> cache_set_1 (token_to_piece)
+  0x1102ce -> cache_set_11 (token_to_piece)
+  0x1104ff -> cache_set_19 (token_to_piece)
+  0x110525 -> cache_set_20 (token_to_piece)
+  0x110135 -> cache_set_4 (token_to_piece)
+  0x110137 -> cache_set_4 (token_to_piece)
+  0x110163 -> cache_set_5 (token_to_piece)
+  0x10ddac -> cache_set_54 (llama_vocab)

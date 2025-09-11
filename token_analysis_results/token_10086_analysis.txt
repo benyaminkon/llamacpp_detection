@@ -1,0 +1,22 @@
+Token 10086 Analysis
+==================================================
+
+Base address (with): 0x717e49bd10cb
+Base address (without): 0x7811aa16a034
+Total offsets (with): 105
+Total offsets (without): 99
+Decode-only offsets: 104
+
+Cache Sets Accessed:
+  [19, 32, 34, 35, 37, 48, 51]
+
+Decode-Related Functions:
+  0xa9819 -> cache_set_32 (token_to_piece)
+  0xa9c19 -> cache_set_48 (token_to_piece)
+  0xa982f -> cache_set_32 (token_to_piece)
+  0xa98a9 -> cache_set_34 (token_to_piece)
+  0xa9cc3 -> cache_set_51 (token_to_piece)
+  0xa74c5 -> cache_set_19 (llama_vocab)
+  0xa98d2 -> cache_set_35 (token_to_piece)
+  0xa98d4 -> cache_set_35 (token_to_piece)
+  0x-666a7 -> cache_set_37 (token_to_piece)

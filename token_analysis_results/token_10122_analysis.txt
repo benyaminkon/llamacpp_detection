@@ -1,0 +1,24 @@
+Token 10122 Analysis
+==================================================
+
+Base address (with): 0x7af522c90f10
+Base address (without): 0x7b0ab798a7d0
+Total offsets (with): 91
+Total offsets (without): 100
+Decode-only offsets: 90
+
+Cache Sets Accessed:
+  [28, 41, 42, 48, 55, 57]
+
+Decode-Related Functions:
+  0xe9c22 -> cache_set_48 (token_to_piece)
+  0xe9a64 -> cache_set_41 (token_to_piece)
+  0xe9e79 -> cache_set_57 (token_to_piece)
+  0xe9e7e -> cache_set_57 (token_to_piece)
+  0xe9a85 -> cache_set_42 (token_to_piece)
+  0xe9a87 -> cache_set_42 (token_to_piece)
+  0xe9a8b -> cache_set_42 (token_to_piece)
+  0xe9a8d -> cache_set_42 (token_to_piece)
+  0xe7700 -> cache_set_28 (llama_vocab)
+  0x-2622c -> cache_set_55 (token_to_piece)
+  0xe9de3 -> cache_set_55 (token_to_piece)

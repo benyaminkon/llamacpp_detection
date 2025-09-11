@@ -1,0 +1,22 @@
+Token 10084 Analysis
+==================================================
+
+Base address (with): 0x7388c978fe19
+Base address (without): 0x762a479417d0
+Total offsets (with): 112
+Total offsets (without): 88
+Decode-only offsets: 111
+
+Cache Sets Accessed:
+  [29, 31, 42, 43, 45, 46, 59, 61]
+
+Decode-Related Functions:
+  0xeaa9e -> cache_set_42 (token_to_piece)
+  0xeaecb -> cache_set_59 (token_to_piece)
+  0xeaad0 -> cache_set_43 (token_to_piece)
+  0xeaf4a -> cache_set_61 (token_to_piece)
+  0xeab5b -> cache_set_45 (token_to_piece)
+  0xe8777 -> cache_set_29 (llama_vocab)
+  0xeab7e -> cache_set_45 (token_to_piece)
+  0xeaba7 -> cache_set_46 (token_to_piece)
+  0xe87f7 -> cache_set_31 (llama_vocab)

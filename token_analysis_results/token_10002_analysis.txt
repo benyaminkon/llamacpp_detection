@@ -1,0 +1,24 @@
+Token 10002 Analysis
+==================================================
+
+Base address (with): 0x712e374427f9
+Base address (without): 0x7e2dbfd8809b
+Total offsets (with): 103
+Total offsets (without): 94
+Decode-only offsets: 102
+
+Cache Sets Accessed:
+  [3, 6, 8, 19, 47, 54, 56, 62]
+
+Decode-Related Functions:
+  0xe220a -> cache_set_8 (token_to_piece)
+  0xdfe17 -> cache_set_56 (llama_vocab)
+  0xe20eb -> cache_set_3 (token_to_piece)
+  0x-2db15 -> cache_set_19 (token_to_piece)
+  0xe2183 -> cache_set_6 (token_to_piece)
+  0xdff8a -> cache_set_62 (llama_vocab)
+  0xdfd97 -> cache_set_54 (llama_vocab)
+  0xe219c -> cache_set_6 (token_to_piece)
+  0xe21a2 -> cache_set_6 (token_to_piece)
+  0xe21a4 -> cache_set_6 (token_to_piece)
+  0xe2beb -> cache_set_47 (token_to_piece)

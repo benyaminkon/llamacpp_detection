@@ -1,0 +1,24 @@
+Token 10102 Analysis
+==================================================
+
+Base address (with): 0x7c5dd008fcfe
+Base address (without): 0x713d23a88008
+Total offsets (with): 107
+Total offsets (without): 106
+Decode-only offsets: 106
+
+Cache Sets Accessed:
+  [1, 2, 34, 36, 42, 47, 49, 50, 52, 63]
+
+Decode-Related Functions:
+  0xeb042 -> cache_set_1 (token_to_piece)
+  0xeac76 -> cache_set_49 (token_to_piece)
+  0xe8a85 -> cache_set_42 (llama_vocab)
+  0xeb08b -> cache_set_2 (token_to_piece)
+  0xe8892 -> cache_set_34 (llama_vocab)
+  0xeac9d -> cache_set_50 (token_to_piece)
+  0xeac9f -> cache_set_50 (token_to_piece)
+  0xe8912 -> cache_set_36 (llama_vocab)
+  0x-252da -> cache_set_52 (token_to_piece)
+  0xeabeb -> cache_set_47 (token_to_piece)
+  0xeaff5 -> cache_set_63 (token_to_piece)

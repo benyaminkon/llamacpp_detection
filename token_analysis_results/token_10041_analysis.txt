@@ -1,0 +1,26 @@
+Token 10041 Analysis
+==================================================
+
+Base address (with): 0x7bfd6218fd85
+Base address (without): 0x70b87731649b
+Total offsets (with): 109
+Total offsets (without): 95
+Decode-only offsets: 108
+
+Cache Sets Accessed:
+  [0, 32, 34, 45, 47, 48, 49, 61, 63]
+
+Decode-Related Functions:
+  0xeb004 -> cache_set_0 (token_to_piece)
+  0xe880b -> cache_set_32 (llama_vocab)
+  0xeac10 -> cache_set_48 (token_to_piece)
+  0xeac11 -> cache_set_48 (token_to_piece)
+  0xeac16 -> cache_set_48 (token_to_piece)
+  0xeac7e -> cache_set_49 (token_to_piece)
+  0xe888b -> cache_set_34 (llama_vocab)
+  0xeab5f -> cache_set_45 (token_to_piece)
+  0x-250a1 -> cache_set_61 (token_to_piece)
+  0xeaf5f -> cache_set_61 (token_to_piece)
+  0xeab64 -> cache_set_45 (token_to_piece)
+  0xeafde -> cache_set_63 (token_to_piece)
+  0xeabf7 -> cache_set_47 (token_to_piece)

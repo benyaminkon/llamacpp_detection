@@ -1,0 +1,21 @@
+Token 10036 Analysis
+==================================================
+
+Base address (with): 0x78e54fdd0ffb
+Base address (without): 0x70339f96a034
+Total offsets (with): 109
+Total offsets (without): 100
+Decode-only offsets: 108
+
+Cache Sets Accessed:
+  [22, 30, 35, 38, 39, 51]
+
+Decode-Related Functions:
+  0x-66317 -> cache_set_51 (token_to_piece)
+  0xa9ce9 -> cache_set_51 (token_to_piece)
+  0xa98ee -> cache_set_35 (token_to_piece)
+  0xa7780 -> cache_set_30 (llama_vocab)
+  0xa9981 -> cache_set_38 (token_to_piece)
+  0xa7595 -> cache_set_22 (llama_vocab)
+  0xa99a0 -> cache_set_38 (token_to_piece)
+  0xa99cc -> cache_set_39 (token_to_piece)

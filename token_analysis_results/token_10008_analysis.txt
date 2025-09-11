@@ -1,0 +1,25 @@
+Token 10008 Analysis
+==================================================
+
+Base address (with): 0x771c05f05518
+Base address (without): 0x78e3d0a8fdea
+Total offsets (with): 93
+Total offsets (without): 94
+Decode-only offsets: 92
+
+Cache Sets Accessed:
+  [15, 17, 18, 31, 33]
+
+Decode-Related Functions:
+  0xfe45c -> cache_set_17 (token_to_piece)
+  0xfe876 -> cache_set_33 (token_to_piece)
+  0xfe47d -> cache_set_17 (token_to_piece)
+  0xfe483 -> cache_set_18 (token_to_piece)
+  0xfe485 -> cache_set_18 (token_to_piece)
+  0xfe4a8 -> cache_set_18 (token_to_piece)
+  0xfe4af -> cache_set_18 (token_to_piece)
+  0xfe3cc -> cache_set_15 (token_to_piece)
+  0xfe7cc -> cache_set_31 (token_to_piece)
+  0xfe3d1 -> cache_set_15 (token_to_piece)
+  0xfe7db -> cache_set_31 (token_to_piece)
+  0xfe3e2 -> cache_set_15 (token_to_piece)

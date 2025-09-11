@@ -1,0 +1,19 @@
+Token 10034 Analysis
+==================================================
+
+Base address (with): 0x75bcf358fe32
+Base address (without): 0x7e3fe880a032
+Total offsets (with): 96
+Total offsets (without): 102
+Decode-only offsets: 95
+
+Cache Sets Accessed:
+  [31, 42, 43, 45]
+
+Decode-Related Functions:
+  0xeaab2 -> cache_set_42 (token_to_piece)
+  0xeaac8 -> cache_set_43 (token_to_piece)
+  0xeab42 -> cache_set_45 (token_to_piece)
+  0xeab4a -> cache_set_45 (token_to_piece)
+  0xeab69 -> cache_set_45 (token_to_piece)
+  0xe87de -> cache_set_31 (llama_vocab)

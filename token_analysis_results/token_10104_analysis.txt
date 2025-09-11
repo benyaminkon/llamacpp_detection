@@ -1,0 +1,25 @@
+Token 10104 Analysis
+==================================================
+
+Base address (with): 0x7100dd708e80
+Base address (without): 0x7d855f529dda
+Total offsets (with): 111
+Total offsets (without): 114
+Decode-only offsets: 108
+
+Cache Sets Accessed:
+  [30, 36, 41, 43, 44, 46, 50, 57, 59]
+
+Decode-Related Functions:
+  0xeaa64 -> cache_set_41 (token_to_piece)
+  0x-2519c -> cache_set_57 (token_to_piece)
+  0xeae73 -> cache_set_57 (token_to_piece)
+  0xeaa7a -> cache_set_41 (token_to_piece)
+  0xeaca5 -> cache_set_50 (token_to_piece)
+  0xeacb2 -> cache_set_50 (token_to_piece)
+  0xeaec0 -> cache_set_59 (token_to_piece)
+  0xeaaf4 -> cache_set_43 (token_to_piece)
+  0xe8903 -> cache_set_36 (llama_vocab)
+  0xeab16 -> cache_set_44 (token_to_piece)
+  0xe8790 -> cache_set_30 (llama_vocab)
+  0x-2545c -> cache_set_46 (token_to_piece)

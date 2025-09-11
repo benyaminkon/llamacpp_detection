@@ -1,0 +1,26 @@
+Token 10117 Analysis
+==================================================
+
+Base address (with): 0x7de7d0a39c1e
+Base address (without): 0x74972048a7d0
+Total offsets (with): 107
+Total offsets (without): 100
+Decode-only offsets: 106
+
+Cache Sets Accessed:
+  [3, 4, 31, 37, 39, 53, 54, 60]
+
+Decode-Related Functions:
+  0x-24f3a -> cache_set_3 (token_to_piece)
+  0xeb0c6 -> cache_set_3 (token_to_piece)
+  0xeaf14 -> cache_set_60 (token_to_piece)
+  0xeaf1a -> cache_set_60 (token_to_piece)
+  0xeb122 -> cache_set_4 (token_to_piece)
+  0xead56 -> cache_set_53 (token_to_piece)
+  0xe8972 -> cache_set_37 (llama_vocab)
+  0xead78 -> cache_set_53 (token_to_piece)
+  0xead79 -> cache_set_53 (token_to_piece)
+  0xead81 -> cache_set_54 (token_to_piece)
+  0xeada9 -> cache_set_54 (token_to_piece)
+  0xeb7c6 -> cache_set_31 (token_to_piece)
+  0xe89f2 -> cache_set_39 (llama_vocab)

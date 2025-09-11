@@ -1,0 +1,24 @@
+Token 10087 Analysis
+==================================================
+
+Base address (with): 0x794eb547c1d6
+Base address (without): 0x7745ba388162
+Total offsets (with): 104
+Total offsets (without): 108
+Decode-only offsets: 103
+
+Cache Sets Accessed:
+  [14, 28, 30, 31, 32, 33, 37, 46]
+
+Decode-Related Functions:
+  0x8782d -> cache_set_32 (token_to_piece)
+  0x-887b2 -> cache_set_33 (token_to_piece)
+  0x87713 -> cache_set_28 (token_to_piece)
+  0x8794f -> cache_set_37 (token_to_piece)
+  0x8795c -> cache_set_37 (token_to_piece)
+  0x87bb8 -> cache_set_46 (token_to_piece)
+  0x853ba -> cache_set_14 (llama_vocab)
+  0x877bf -> cache_set_30 (token_to_piece)
+  0x877c0 -> cache_set_31 (token_to_piece)
+  0x877c9 -> cache_set_31 (token_to_piece)
+  0x877ea -> cache_set_31 (token_to_piece)

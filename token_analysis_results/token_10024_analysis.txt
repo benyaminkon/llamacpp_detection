@@ -1,0 +1,25 @@
+Token 10024 Analysis
+==================================================
+
+Base address (with): 0x719dfca59ff9
+Base address (without): 0x7f554ed46dda
+Total offsets (with): 106
+Total offsets (without): 97
+Decode-only offsets: 105
+
+Cache Sets Accessed:
+  [22, 24, 30, 37, 38, 40, 51, 53]
+
+Decode-Related Functions:
+  0xa9a0a -> cache_set_40 (token_to_piece)
+  0xa7617 -> cache_set_24 (llama_vocab)
+  0x-66315 -> cache_set_51 (token_to_piece)
+  0xa9d47 -> cache_set_53 (token_to_piece)
+  0xa997b -> cache_set_37 (token_to_piece)
+  0xa778a -> cache_set_30 (llama_vocab)
+  0xa7597 -> cache_set_22 (llama_vocab)
+  0xa999c -> cache_set_38 (token_to_piece)
+  0xa999e -> cache_set_38 (token_to_piece)
+  0xa99a0 -> cache_set_38 (token_to_piece)
+  0xa99a4 -> cache_set_38 (token_to_piece)
+  0xa99a6 -> cache_set_38 (token_to_piece)

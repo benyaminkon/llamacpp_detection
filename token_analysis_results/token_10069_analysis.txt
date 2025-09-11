@@ -1,0 +1,23 @@
+Token 10069 Analysis
+==================================================
+
+Base address (with): 0x7d184d046e32
+Base address (without): 0x7d4246ed1122
+Total offsets (with): 105
+Total offsets (without): 98
+Decode-only offsets: 104
+
+Cache Sets Accessed:
+  [29, 37, 42, 45, 46, 47, 58, 59, 60]
+
+Decode-Related Functions:
+  0xeaa85 -> cache_set_42 (token_to_piece)
+  0xeaeb2 -> cache_set_58 (token_to_piece)
+  0xeaec1 -> cache_set_59 (token_to_piece)
+  0xeaf0e -> cache_set_60 (token_to_piece)
+  0xeaf31 -> cache_set_60 (token_to_piece)
+  0xe8949 -> cache_set_37 (llama_vocab)
+  0xe875e -> cache_set_29 (llama_vocab)
+  0xeab69 -> cache_set_45 (token_to_piece)
+  0xeab95 -> cache_set_46 (token_to_piece)
+  0xeabd1 -> cache_set_47 (token_to_piece)

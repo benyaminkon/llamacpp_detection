@@ -1,0 +1,20 @@
+Token 10091 Analysis
+==================================================
+
+Base address (with): 0x750f27a417d0
+Base address (without): 0x7376729d0ff9
+Total offsets (with): 102
+Total offsets (without): 99
+Decode-only offsets: 101
+
+Cache Sets Accessed:
+  [4, 6, 7, 13, 21]
+
+Decode-Related Functions:
+  0xf012a -> cache_set_4 (token_to_piece)
+  0xf0362 -> cache_set_13 (token_to_piece)
+  0xf0570 -> cache_set_21 (token_to_piece)
+  0xf01a4 -> cache_set_6 (token_to_piece)
+  0xf01ac -> cache_set_6 (token_to_piece)
+  0xf01cb -> cache_set_7 (token_to_piece)
+  0xf01cf -> cache_set_7 (token_to_piece)

@@ -1,0 +1,20 @@
+Token 10013 Analysis
+==================================================
+
+Base address (with): 0x75e4e337c513
+Base address (without): 0x6ffd5ae8a7d0
+Total offsets (with): 104
+Total offsets (without): 93
+Decode-only offsets: 103
+
+Cache Sets Accessed:
+  [15, 17, 18, 31]
+
+Decode-Related Functions:
+  0xfe469 -> cache_set_17 (token_to_piece)
+  0xfe482 -> cache_set_18 (token_to_piece)
+  0xfe486 -> cache_set_18 (token_to_piece)
+  0xfe488 -> cache_set_18 (token_to_piece)
+  0x-1182f -> cache_set_31 (token_to_piece)
+  0xfe3d6 -> cache_set_15 (token_to_piece)
+  0xfe3e7 -> cache_set_15 (token_to_piece)

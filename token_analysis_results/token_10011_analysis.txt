@@ -1,0 +1,25 @@
+Token 10011 Analysis
+==================================================
+
+Base address (with): 0x711ddd18fdda
+Base address (without): 0x707e0a908d49
+Total offsets (with): 98
+Total offsets (without): 114
+Decode-only offsets: 94
+
+Cache Sets Accessed:
+  [43, 44, 46, 47, 48, 49, 53, 60, 62]
+
+Decode-Related Functions:
+  0xeac29 -> cache_set_48 (token_to_piece)
+  0x-253b6 -> cache_set_49 (token_to_piece)
+  0xeaadd -> cache_set_43 (token_to_piece)
+  0xeaf19 -> cache_set_60 (token_to_piece)
+  0xeab20 -> cache_set_44 (token_to_piece)
+  0xead58 -> cache_set_53 (token_to_piece)
+  0xeaf89 -> cache_set_62 (token_to_piece)
+  0xeaba2 -> cache_set_46 (token_to_piece)
+  0xeabbc -> cache_set_46 (token_to_piece)
+  0xeabbf -> cache_set_46 (token_to_piece)
+  0xeabc1 -> cache_set_47 (token_to_piece)
+  0xeabc5 -> cache_set_47 (token_to_piece)

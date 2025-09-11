@@ -1,0 +1,21 @@
+Token 10101 Analysis
+==================================================
+
+Base address (with): 0x7b2743621864
+Base address (without): 0x7b7885e417d0
+Total offsets (with): 90
+Total offsets (without): 105
+Decode-only offsets: 89
+
+Cache Sets Accessed:
+  [4, 5, 18, 20, 60]
+
+Decode-Related Functions:
+  0x480 -> cache_set_18 (token_to_piece)
+  0x110480 -> cache_set_18 (token_to_piece)
+  0x11048f -> cache_set_18 (token_to_piece)
+  0x110110 -> cache_set_4 (token_to_piece)
+  0x10df17 -> cache_set_60 (llama_vocab)
+  0x10df1f -> cache_set_60 (llama_vocab)
+  0x11052a -> cache_set_20 (token_to_piece)
+  0x110163 -> cache_set_5 (token_to_piece)

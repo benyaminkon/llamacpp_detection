@@ -1,0 +1,20 @@
+Token 10039 Analysis
+==================================================
+
+Base address (with): 0x7ee63568fddf
+Base address (without): 0x79b35af8fddf
+Total offsets (with): 105
+Total offsets (without): 106
+Decode-only offsets: 56
+
+Cache Sets Accessed:
+  [43, 46, 47, 49]
+
+Decode-Related Functions:
+  0xeabb6 -> cache_set_46 (token_to_piece)
+  0xeabba -> cache_set_46 (token_to_piece)
+  0xeabbe -> cache_set_46 (token_to_piece)
+  0x-253bb -> cache_set_49 (token_to_piece)
+  0xeaad8 -> cache_set_43 (token_to_piece)
+  0xeabe1 -> cache_set_47 (token_to_piece)
+  0xeabe8 -> cache_set_47 (token_to_piece)

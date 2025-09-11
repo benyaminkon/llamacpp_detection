@@ -1,0 +1,26 @@
+Token 10070 Analysis
+==================================================
+
+Base address (with): 0x750abee8fd08
+Base address (without): 0x71a8d0d8a7d0
+Total offsets (with): 107
+Total offsets (without): 99
+Decode-only offsets: 106
+
+Cache Sets Accessed:
+  [0, 27, 34, 41, 47, 49, 50, 51, 56]
+
+Decode-Related Functions:
+  0xeae2a -> cache_set_56 (token_to_piece)
+  0xeb038 -> cache_set_0 (token_to_piece)
+  0xe8a73 -> cache_set_41 (llama_vocab)
+  0xeac74 -> cache_set_49 (token_to_piece)
+  0xe8a7b -> cache_set_41 (llama_vocab)
+  0xe8888 -> cache_set_34 (llama_vocab)
+  0xeac8e -> cache_set_50 (token_to_piece)
+  0xeac91 -> cache_set_50 (token_to_piece)
+  0xeacbf -> cache_set_50 (token_to_piece)
+  0xeb6dc -> cache_set_27 (token_to_piece)
+  0xeacfb -> cache_set_51 (token_to_piece)
+  0xeabe1 -> cache_set_47 (token_to_piece)
+  0xeabf2 -> cache_set_47 (token_to_piece)

@@ -1,0 +1,24 @@
+Token 10071 Analysis
+==================================================
+
+Base address (with): 0x75e5e0f8fdda
+Base address (without): 0x7de0f3468cba
+Total offsets (with): 102
+Total offsets (without): 100
+Decode-only offsets: 101
+
+Cache Sets Accessed:
+  [30, 43, 44, 46, 47, 48, 49, 61]
+
+Decode-Related Functions:
+  0xeac29 -> cache_set_48 (token_to_piece)
+  0x-253b6 -> cache_set_49 (token_to_piece)
+  0xeaadd -> cache_set_43 (token_to_piece)
+  0xeab0f -> cache_set_44 (token_to_piece)
+  0xeaf66 -> cache_set_61 (token_to_piece)
+  0xeab9a -> cache_set_46 (token_to_piece)
+  0xe87b6 -> cache_set_30 (llama_vocab)
+  0xeabbc -> cache_set_46 (token_to_piece)
+  0xeabbd -> cache_set_46 (token_to_piece)
+  0xeabc3 -> cache_set_47 (token_to_piece)
+  0xeabe6 -> cache_set_47 (token_to_piece)

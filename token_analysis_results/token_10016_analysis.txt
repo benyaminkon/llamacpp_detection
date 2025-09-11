@@ -1,0 +1,22 @@
+Token 10016 Analysis
+==================================================
+
+Base address (with): 0x770b17f46dda
+Base address (without): 0x70a5cca6cf44
+Total offsets (with): 102
+Total offsets (without): 99
+Decode-only offsets: 101
+
+Cache Sets Accessed:
+  [38, 44, 47, 48, 49, 53, 61]
+
+Decode-Related Functions:
+  0xeac29 -> cache_set_48 (token_to_piece)
+  0x-253b6 -> cache_set_49 (token_to_piece)
+  0xeab0a -> cache_set_44 (token_to_piece)
+  0xeab0f -> cache_set_44 (token_to_piece)
+  0xeab20 -> cache_set_44 (token_to_piece)
+  0xead58 -> cache_set_53 (token_to_piece)
+  0xeaf66 -> cache_set_61 (token_to_piece)
+  0xe89a9 -> cache_set_38 (llama_vocab)
+  0xeabed -> cache_set_47 (token_to_piece)

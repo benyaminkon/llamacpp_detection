@@ -1,0 +1,22 @@
+Token 10113 Analysis
+==================================================
+
+Base address (with): 0x7ff1f688fe82
+Base address (without): 0x7d81e057c51d
+Total offsets (with): 103
+Total offsets (without): 102
+Decode-only offsets: 102
+
+Cache Sets Accessed:
+  [21, 40, 43, 44, 57, 58, 60]
+
+Decode-Related Functions:
+  0xeaa35 -> cache_set_40 (token_to_piece)
+  0x-2519e -> cache_set_57 (token_to_piece)
+  0xeaebe -> cache_set_58 (token_to_piece)
+  0xeaafa -> cache_set_43 (token_to_piece)
+  0xeaf07 -> cache_set_60 (token_to_piece)
+  0xeab15 -> cache_set_44 (token_to_piece)
+  0xeab17 -> cache_set_44 (token_to_piece)
+  0xeab3e -> cache_set_44 (token_to_piece)
+  0xeb562 -> cache_set_21 (token_to_piece)
